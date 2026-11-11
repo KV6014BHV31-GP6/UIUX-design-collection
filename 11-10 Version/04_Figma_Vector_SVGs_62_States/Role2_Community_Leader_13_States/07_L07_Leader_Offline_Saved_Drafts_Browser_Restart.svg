@@ -1,0 +1,156 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 900" width="1440" height="900">
+  <rect x="0" y="0" width="1440" height="900" fill="#FAF8F4"/>
+  <rect x="0" y="0" width="220" height="900" fill="#153B30"/>
+  
+    <g transform="translate(20,20) scale(0.95)">
+      <circle cx="22" cy="22" r="22" fill="#F3EFE6"/>
+      <path d="M22 36 C10 32, 6 20, 12 11 C16 14, 20 22, 22 36 Z" fill="#D59F67"/>
+      <path d="M22 36 C34 32, 38 20, 32 11 C28 14, 24 22, 22 36 Z" fill="#1F6F50"/>
+      <path d="M22 33 C15 25, 14 15, 22 9 C30 15, 29 25, 22 33 Z" fill="#88B69E"/>
+      <circle cx="22" cy="18" r="4.2" fill="#DFB982"/>
+    </g>
+    
+  <text x="72" y="38" font-family="Inter, sans-serif" font-size="15" font-weight="800" fill="#FAF8F4" letter-spacing="0.5">ROSE · PULSE</text>
+  <text x="72" y="54" font-family="Inter, sans-serif" font-size="10" font-weight="500" fill="#88B69E">Community Health Portal</text>
+  <text x="32" y="113" font-family="Inter, sans-serif" font-size="13.5" font-weight="500" fill="#D5E3DC">🏠  Community Events</text>
+  <rect x="16" y="136" width="188" height="40" rx="10" fill="#DFB982"/><text x="32" y="161" font-family="Inter, sans-serif" font-size="13.5" font-weight="700" fill="#18241E">⇄  Register Residents</text>
+  <text x="32" y="209" font-family="Inter, sans-serif" font-size="13.5" font-weight="500" fill="#D5E3DC">👤  Leader Profile</text>
+  <line x1="20" y1="756" x2="200" y2="756" stroke="#265345" stroke-width="1"/>
+  <text x="24" y="782" font-family="Inter, sans-serif" font-size="11.5" font-weight="500" fill="#9AB8AC">A place for everyone.</text>
+  <text x="24" y="800" font-family="Inter, sans-serif" font-size="11.5" font-weight="500" fill="#9AB8AC">A community for you.</text>
+  <text x="24" y="836" font-family="Inter, sans-serif" font-size="12.5" font-weight="500" fill="#D5E3DC">❓  Help &amp; information</text>
+  <text x="24" y="868" font-family="Inter, sans-serif" font-size="12.5" font-weight="600" fill="#DFB982">↪  Sign out</text>
+
+  <g transform="translate(248,12) scale(0.92)">
+      <circle cx="22" cy="22" r="22" fill="#F3EFE6"/>
+      <path d="M22 36 C10 32, 6 20, 12 11 C16 14, 20 22, 22 36 Z" fill="#D59F67"/>
+      <path d="M22 36 C34 32, 38 20, 32 11 C28 14, 24 22, 22 36 Z" fill="#1F6F50"/>
+      <path d="M22 33 C15 25, 14 15, 22 9 C30 15, 29 25, 22 33 Z" fill="#88B69E"/>
+      <circle cx="22" cy="18" r="4.2" fill="#DFB982"/>
+    </g>
+    
+  <text x="298" y="32" font-family="Inter, sans-serif" font-size="21" font-weight="800" fill="#153B30" letter-spacing="0.4">ROSE · PULSE</text>
+  <text x="298" y="48" font-family="Inter, sans-serif" font-size="11" font-weight="500" fill="#55625A">Community Health · People · Opportunity</text>
+  <line x1="518" y1="14" x2="518" y2="52" stroke="#D8D4C8" stroke-width="1.2"/>
+  <text x="534" y="30" font-family="Inter, sans-serif" font-size="13.5" font-weight="700" fill="#1F2937">Connected communities. Healthier lives.</text>
+  <text x="534" y="47" font-family="Inter, sans-serif" font-size="11" font-weight="500" fill="#6B7280">Events · Screening · Support · Together</text>
+
+  <g transform="translate(835, 14)">
+    <circle cx="16" cy="18" r="14" fill="#EDF3F0"/>
+    <text x="16" y="23" text-anchor="middle" font-family="Inter, sans-serif" font-size="13">🧘</text>
+    <text x="36" y="16" font-family="Inter, sans-serif" font-size="11.5" font-weight="700" fill="#1F2937">Accessible</text>
+    <text x="36" y="30" font-family="Inter, sans-serif" font-size="10" fill="#6B7280">Simple for everyone</text>
+    <circle cx="156" cy="18" r="14" fill="#FDF2EE"/>
+    <text x="156" y="23" text-anchor="middle" font-family="Inter, sans-serif" font-size="13">❤️</text>
+    <text x="176" y="16" font-family="Inter, sans-serif" font-size="11.5" font-weight="700" fill="#1F2937">Inclusive</text>
+    <text x="176" y="30" font-family="Inter, sans-serif" font-size="10" fill="#6B7280">All communities</text>
+    <circle cx="292" cy="18" r="14" fill="#F6EFE2"/>
+    <text x="292" y="23" text-anchor="middle" font-family="Inter, sans-serif" font-size="13">⚡</text>
+    <text x="312" y="16" font-family="Inter, sans-serif" font-size="11.5" font-weight="700" fill="#1F2937">Offline Ready</text>
+    <text x="312" y="30" font-family="Inter, sans-serif" font-size="10" fill="#6B7280">Works anywhere</text>
+    <circle cx="436" cy="18" r="14" fill="#EDF3F0"/>
+    <text x="436" y="23" text-anchor="middle" font-family="Inter, sans-serif" font-size="13">🔒</text>
+    <text x="456" y="16" font-family="Inter, sans-serif" font-size="11.5" font-weight="700" fill="#1F2937">Secure</text>
+    <text x="456" y="30" font-family="Inter, sans-serif" font-size="10" fill="#6B7280">Your data protected</text>
+  </g>
+
+  <rect x="248" y="64" width="396" height="38" rx="19" fill="#FFFFFF" stroke="#E2DEC9" stroke-width="1.2"/>
+  <text x="268" y="88" font-family="Inter, sans-serif" font-size="12.5" font-weight="500" fill="#6B7280">🔍  Search saved resident registrations...</text>
+  <circle cx="624" cy="83" r="13" fill="#EDF3F0"/>
+  <text x="624" y="87" text-anchor="middle" font-family="Inter, sans-serif" font-size="12" font-weight="700" fill="#1F6F50">→</text>
+
+  <rect x="656.0" y="68" width="42.0" height="32" rx="16" fill="#1F6F50"/><text x="677.0" y="89" text-anchor="middle" font-family="Inter, sans-serif" font-size="11.5" font-weight="700" fill="#FFFFFF">All</text><rect x="704.0" y="68" width="58.8" height="32" rx="16" fill="#F0EDE6" stroke="#E0DDD4" stroke-width="1"/><text x="733.4" y="89" text-anchor="middle" font-family="Inter, sans-serif" font-size="11.5" font-weight="600" fill="#374151">Health</text><rect x="768.8" y="68" width="79.2" height="32" rx="16" fill="#F0EDE6" stroke="#E0DDD4" stroke-width="1"/><text x="808.4" y="89" text-anchor="middle" font-family="Inter, sans-serif" font-size="11.5" font-weight="600" fill="#374151">Screening</text><rect x="854.0" y="68" width="72.4" height="32" rx="16" fill="#F0EDE6" stroke="#E0DDD4" stroke-width="1"/><text x="890.2" y="89" text-anchor="middle" font-family="Inter, sans-serif" font-size="11.5" font-weight="600" fill="#374151">Workshop</text><rect x="932.4" y="68" width="45.2" height="32" rx="16" fill="#F0EDE6" stroke="#E0DDD4" stroke-width="1"/><text x="955.0" y="89" text-anchor="middle" font-family="Inter, sans-serif" font-size="11.5" font-weight="600" fill="#374151">Talk</text><rect x="983.6" y="68" width="58.8" height="32" rx="16" fill="#F0EDE6" stroke="#E0DDD4" stroke-width="1"/><text x="1013.0" y="89" text-anchor="middle" font-family="Inter, sans-serif" font-size="11.5" font-weight="600" fill="#374151">Family</text>
+
+  
+        <rect x="1146" y="66" width="96" height="36" rx="18" fill="#FFFFFF" stroke="#1F6F50" stroke-width="1.5"/>
+        <rect x="1149" y="69" width="47" height="30" rx="15" fill="#1F6F50"/>
+        <text x="1172" y="89" text-anchor="middle" font-family="Inter, sans-serif" font-size="11.5" font-weight="800" fill="#FFFFFF">EN</text>
+        <text x="1217" y="89" text-anchor="middle" font-family="Inter, sans-serif" font-size="11.5" font-weight="600" fill="#6B7280">BM</text>
+        
+
+  <rect x="1250" y="66" width="164" height="36" rx="18" fill="#EDF3F0" stroke="#88B69E" stroke-width="1.2"/><circle cx="1270" cy="84" r="11" fill="#1F6F50"/><text x="1270" y="88" text-anchor="middle" font-family="Inter, sans-serif" font-size="10" font-weight="700" fill="#FFFFFF">RP</text><text x="1287" y="88" font-family="Inter, sans-serif" font-size="11" font-weight="700" fill="#153B30">Welcome, Leader</text>
+
+  
+    
+    
+
+    <rect x="248" y="118" width="506" height="748" rx="18" fill="#FFFFFF" stroke="#E6E2D8" stroke-width="1.2"/>
+    <text x="274" y="150" font-family="Inter, sans-serif" font-size="20" font-weight="800" fill="#1F2937">Register a Resident (Offline Ready)</text>
+    <text x="274" y="170" font-family="Inter, sans-serif" font-size="12" fill="#6B7280">Event: Community Health Screening · 10 Community Places Available</text>
+
+    <text x="274" y="210" font-family="Inter, sans-serif" font-size="12" font-weight="600" fill="#374151">First name <tspan fill="#D89561">*</tspan></text>
+    <rect x="274" y="218" width="218" height="40" rx="10" fill="#FAF8F4" stroke="#E2DEC9"/>
+    <text x="288" y="243" font-family="Inter, sans-serif" font-size="13" font-weight="600" fill="#1F2937">Siti</text>
+
+    <text x="510" y="210" font-family="Inter, sans-serif" font-size="12" font-weight="600" fill="#374151">Last name <tspan fill="#D89561">*</tspan></text>
+    <rect x="510" y="218" width="218" height="40" rx="10" fill="#FAF8F4" stroke="#E2DEC9"/>
+    <text x="524" y="243" font-family="Inter, sans-serif" font-size="13" font-weight="600" fill="#1F2937">Aminah</text>
+
+    <text x="274" y="284" font-family="Inter, sans-serif" font-size="12" font-weight="600" fill="#374151">Date of birth <tspan fill="#D89561">*</tspan></text>
+    <rect x="274" y="292" width="218" height="40" rx="10" fill="#FAF8F4" stroke="#E2DEC9"/>
+    <text x="288" y="317" font-family="Inter, sans-serif" font-size="13" font-weight="600" fill="#1F2937">14/05/1968</text>
+
+    <text x="510" y="284" font-family="Inter, sans-serif" font-size="12" font-weight="600" fill="#374151">Gender <tspan fill="#D89561">*</tspan></text>
+    <rect x="510" y="292" width="218" height="40" rx="10" fill="#FAF8F4" stroke="#E2DEC9"/>
+    <text x="524" y="317" font-family="Inter, sans-serif" font-size="13" font-weight="600" fill="#1F2937">Female</text>
+
+    <text x="274" y="358" font-family="Inter, sans-serif" font-size="12" font-weight="600" fill="#374151">Phone <tspan fill="#D89561">*</tspan></text>
+    <rect x="274" y="366" width="218" height="40" rx="10" fill="#FAF8F4" stroke="#E2DEC9"/>
+    <text x="288" y="391" font-family="Inter, sans-serif" font-size="13" font-weight="600" fill="#1F2937">017-882 3410</text>
+
+    <text x="510" y="358" font-family="Inter, sans-serif" font-size="12" font-weight="600" fill="#374151">National ID <tspan fill="#D89561">*</tspan></text>
+    <rect x="510" y="366" width="218" height="40" rx="10" fill="#FAF8F4" stroke="#1F6F50"/>
+    <text x="524" y="391" font-family="Inter, sans-serif" font-size="13" font-weight="600" fill="#1F2937">680514-01-5522</text>
+    <text x="274" y="424" font-family="Inter, sans-serif" font-size="11" font-weight="600" fill="#1F6F50">✓ National ID checked — Not yet in your saved list</text>
+
+    <rect x="274" y="444" width="454" height="72" rx="10" fill="#FDF6E7" stroke="#E6C88A"/>
+    <rect x="290" y="460" width="20" height="20" rx="5" fill="#FFFFFF" stroke="#1F6F50" stroke-width="1.8"/>
+    <text x="320" y="474" font-family="Inter, sans-serif" font-size="12" font-weight="700" fill="#8A5A10">Resident agrees to join this event &amp; details match their ID</text>
+    <text x="320" y="494" font-family="Inter, sans-serif" font-size="11" fill="#8A5A10">Please check that the resident's name, phone number, and ID are accurate.</text>
+
+    <rect x="274" y="534" width="218" height="44" rx="10" fill="#FAF8F4" stroke="#1F6F50" stroke-width="1.5"/>
+    <text x="383" y="561" text-anchor="middle" font-family="Inter, sans-serif" font-size="13" font-weight="700" fill="#1F6F50">Save on This Device</text>
+
+    <rect x="510" y="534" width="218" height="44" rx="10" fill="#9CA3AF"/>
+    <text x="619" y="561" text-anchor="middle" font-family="Inter, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">Mark Ready to Send  →</text>
+
+    <rect x="274" y="600" width="454" height="240" rx="12" fill="#FAF8F4" stroke="#E2DEC9"/>
+    <text x="292" y="628" font-family="Inter, sans-serif" font-size="12.5" font-weight="700" fill="#153B30">💡 How Community Registration Works</text>
+    <text x="292" y="654" font-family="Inter, sans-serif" font-size="11.5" fill="#4B5563">1. Type the 6 basic details above — works anywhere even without Wi-Fi.</text>
+    <text x="292" y="678" font-family="Inter, sans-serif" font-size="11.5" fill="#4B5563">2. Saved entries stay safely on your device even if you close the browser.</text>
+    <text x="292" y="702" font-family="Inter, sans-serif" font-size="11.5" fill="#4B5563">3. Click 'Send All to Organizer' when internet is available to submit your list.</text>
+    <text x="292" y="728" font-family="Inter, sans-serif" font-size="11.5" font-weight="700" fill="#1F6F50">4. Sent entries will be reviewed and confirmed by the event organizer.</text>
+
+    <rect x="774" y="118" width="638" height="748" rx="18" fill="#FFFFFF" stroke="#E6E2D8" stroke-width="1.2"/>
+    <text x="796" y="150" font-family="Inter, sans-serif" font-size="20" font-weight="800" fill="#1F2937">Saved Resident Registrations</text>
+    <rect x="1186" y="128" width="204" height="38" rx="10" fill="#1F6F50"/>
+    <text x="1288" y="152" text-anchor="middle" font-family="Inter, sans-serif" font-size="12" font-weight="700" fill="#FFFFFF">📤 Send All to Organizer (3)</text>
+
+    <rect x="796" y="164" width="594" height="32" rx="8" fill="#EDF3F0" stroke="#1F6F50"/>
+    <text x="810" y="185" font-family="Inter, sans-serif" font-size="11.5" font-weight="700" fill="#153B30">✓ Saved on this device! Your list stays saved even if you close and reopen the browser.</text>
+
+    <rect x="796" y="206" width="138" height="30" rx="15" fill="#1F6F50"/><text x="865" y="225" text-anchor="middle" font-family="Inter, sans-serif" font-size="11" font-weight="700" fill="#FFFFFF">Saved on Device (3)</text><rect x="942" y="206" width="130" height="30" rx="15" fill="#F2EFE8" stroke="#E2DEC9"/><text x="1007" y="225" text-anchor="middle" font-family="Inter, sans-serif" font-size="11" font-weight="600" fill="#374151">Ready to Send (3)</text><rect x="1080" y="206" width="148" height="30" rx="15" fill="#F2EFE8" stroke="#E2DEC9"/><text x="1154" y="225" text-anchor="middle" font-family="Inter, sans-serif" font-size="11" font-weight="600" fill="#374151">Sent to Organizer (3)</text><rect x="1236" y="206" width="126" height="30" rx="15" fill="#F2EFE8" stroke="#E2DEC9"/><text x="1299" y="225" text-anchor="middle" font-family="Inter, sans-serif" font-size="11" font-weight="600" fill="#374151">Needs Update (1)</text>
+
+    <rect x="796" y="252" width="594" height="148" rx="14" fill="#FAF8F4" stroke="#88B69E" stroke-width="1.5"/>
+    <text x="816" y="280" font-family="Inter, sans-serif" font-size="16" font-weight="800" fill="#1F2937">1. Siti Aminah · 680514-01-5522</text>
+    <rect x="1196" y="262" width="174" height="28" rx="14" fill="#D89561"/>
+    <text x="1283" y="280" text-anchor="middle" font-family="Inter, sans-serif" font-size="11" font-weight="700" fill="#FFFFFF">Saved on Device</text>
+    <text x="816" y="306" font-family="Inter, sans-serif" font-size="12.5" fill="#4B5563">📅 DOB: 14/05/1968 · Female · 📞 017-882 3410 · Registered by Community Leader</text>
+    <text x="816" y="328" font-family="Inter, sans-serif" font-size="11.5" font-weight="600" fill="#1F6F50">Booking Ref: #OFF-2027-01 · Saved on 15 Mar 2027, 09:15 AM</text>
+    <rect x="816" y="346" width="554" height="38" rx="8" fill="#FFFFFF" stroke="#E2DEC9"/><text x="830" y="370" font-family="Inter, sans-serif" font-size="11.5" font-weight="600" fill="#1F6F50">✓ Details verified with resident · Reserved under Community Places</text>
+
+    <rect x="796" y="416" width="594" height="136" rx="14" fill="#FAF8F4" stroke="#E2DEC9"/>
+    <text x="816" y="444" font-family="Inter, sans-serif" font-size="16" font-weight="800" fill="#1F2937">2. Halimah Binti Othman · 621103-01-6188</text>
+    <rect x="1196" y="426" width="174" height="28" rx="14" fill="#D89561"/>
+    <text x="1283" y="444" text-anchor="middle" font-family="Inter, sans-serif" font-size="11" font-weight="700" fill="#FFFFFF">Saved on Device</text>
+    <text x="816" y="470" font-family="Inter, sans-serif" font-size="12.5" fill="#4B5563">📅 DOB: 03/11/1962 · Female · 📞 012-741 9920 · Registered by Community Leader</text>
+    <text x="816" y="494" font-family="Inter, sans-serif" font-size="11.5" font-weight="600" fill="#1F6F50">Booking Ref: #OFF-2027-02 · Saved on 15 Mar 2027, 09:18 AM</text>
+
+    <rect x="796" y="568" width="594" height="136" rx="14" fill="#FAF8F4" stroke="#E2DEC9"/>
+    <text x="816" y="596" font-family="Inter, sans-serif" font-size="16" font-weight="800" fill="#1F2937">3. Tan Mei Ling · 710822-14-3390</text>
+    <rect x="1196" y="578" width="174" height="28" rx="14" fill="#D89561"/>
+    <text x="1283" y="596" text-anchor="middle" font-family="Inter, sans-serif" font-size="11" font-weight="700" fill="#FFFFFF">Saved on Device</text>
+    <text x="816" y="622" font-family="Inter, sans-serif" font-size="12.5" fill="#4B5563">📅 DOB: 22/08/1971 · Female · 📞 016-339 1024 · Registered by Community Leader</text>
+    <text x="816" y="646" font-family="Inter, sans-serif" font-size="11.5" font-weight="600" fill="#1F6F50">Booking Ref: #OFF-2027-03 · Saved on 15 Mar 2027, 09:22 AM</text>
+    
+</svg>

@@ -1,0 +1,261 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 900" width="1440" height="900">
+  <rect x="0" y="0" width="1440" height="900" fill="#FAF8F4"/>
+  <rect x="0" y="0" width="220" height="900" fill="#153B30"/>
+  
+    <g transform="translate(20,20) scale(0.95)">
+      <circle cx="22" cy="22" r="22" fill="#F3EFE6"/>
+      <path d="M22 36 C10 32, 6 20, 12 11 C16 14, 20 22, 22 36 Z" fill="#D59F67"/>
+      <path d="M22 36 C34 32, 38 20, 32 11 C28 14, 24 22, 22 36 Z" fill="#1F6F50"/>
+      <path d="M22 33 C15 25, 14 15, 22 9 C30 15, 29 25, 22 33 Z" fill="#88B69E"/>
+      <circle cx="22" cy="18" r="4.2" fill="#DFB982"/>
+    </g>
+    
+  <text x="72" y="38" font-family="Inter, sans-serif" font-size="15" font-weight="800" fill="#FAF8F4" letter-spacing="0.5">ROSE · PULSE</text>
+  <text x="72" y="54" font-family="Inter, sans-serif" font-size="10" font-weight="500" fill="#88B69E">Community Health Portal</text>
+  <text x="32" y="113" font-family="Inter, sans-serif" font-size="13.5" font-weight="500" fill="#D5E3DC">🏠  Home</text>
+  <rect x="16" y="136" width="188" height="40" rx="10" fill="#DFB982"/><text x="32" y="161" font-family="Inter, sans-serif" font-size="13.5" font-weight="700" fill="#18241E">📅  Events</text>
+  <text x="32" y="209" font-family="Inter, sans-serif" font-size="13.5" font-weight="500" fill="#D5E3DC">🔍  Check Registration</text>
+  <line x1="20" y1="756" x2="200" y2="756" stroke="#265345" stroke-width="1"/>
+  <text x="24" y="782" font-family="Inter, sans-serif" font-size="11.5" font-weight="500" fill="#9AB8AC">A place for everyone.</text>
+  <text x="24" y="800" font-family="Inter, sans-serif" font-size="11.5" font-weight="500" fill="#9AB8AC">A community for you.</text>
+  <text x="24" y="836" font-family="Inter, sans-serif" font-size="12.5" font-weight="500" fill="#D5E3DC">❓  Help &amp; information</text>
+  <text x="24" y="868" font-family="Inter, sans-serif" font-size="12.5" font-weight="600" fill="#DFB982">↪  Sign up / Log in</text>
+
+  <g transform="translate(248,12) scale(0.92)">
+      <circle cx="22" cy="22" r="22" fill="#F3EFE6"/>
+      <path d="M22 36 C10 32, 6 20, 12 11 C16 14, 20 22, 22 36 Z" fill="#D59F67"/>
+      <path d="M22 36 C34 32, 38 20, 32 11 C28 14, 24 22, 22 36 Z" fill="#1F6F50"/>
+      <path d="M22 33 C15 25, 14 15, 22 9 C30 15, 29 25, 22 33 Z" fill="#88B69E"/>
+      <circle cx="22" cy="18" r="4.2" fill="#DFB982"/>
+    </g>
+    
+  <text x="298" y="32" font-family="Inter, sans-serif" font-size="21" font-weight="800" fill="#153B30" letter-spacing="0.4">ROSE · PULSE</text>
+  <text x="298" y="48" font-family="Inter, sans-serif" font-size="11" font-weight="500" fill="#55625A">Community Health · People · Opportunity</text>
+  <line x1="518" y1="14" x2="518" y2="52" stroke="#D8D4C8" stroke-width="1.2"/>
+  <text x="534" y="30" font-family="Inter, sans-serif" font-size="13.5" font-weight="700" fill="#1F2937">Connected communities. Healthier lives.</text>
+  <text x="534" y="47" font-family="Inter, sans-serif" font-size="11" font-weight="500" fill="#6B7280">Events · Screening · Support · Together</text>
+
+  <g transform="translate(835, 14)">
+    <circle cx="16" cy="18" r="14" fill="#EDF3F0"/>
+    <text x="16" y="23" text-anchor="middle" font-family="Inter, sans-serif" font-size="13">🧘</text>
+    <text x="36" y="16" font-family="Inter, sans-serif" font-size="11.5" font-weight="700" fill="#1F2937">Accessible</text>
+    <text x="36" y="30" font-family="Inter, sans-serif" font-size="10" fill="#6B7280">Simple for everyone</text>
+    <circle cx="156" cy="18" r="14" fill="#FDF2EE"/>
+    <text x="156" y="23" text-anchor="middle" font-family="Inter, sans-serif" font-size="13">❤️</text>
+    <text x="176" y="16" font-family="Inter, sans-serif" font-size="11.5" font-weight="700" fill="#1F2937">Inclusive</text>
+    <text x="176" y="30" font-family="Inter, sans-serif" font-size="10" fill="#6B7280">All communities</text>
+    <circle cx="292" cy="18" r="14" fill="#F6EFE2"/>
+    <text x="292" y="23" text-anchor="middle" font-family="Inter, sans-serif" font-size="13">⚡</text>
+    <text x="312" y="16" font-family="Inter, sans-serif" font-size="11.5" font-weight="700" fill="#1F2937">Offline Ready</text>
+    <text x="312" y="30" font-family="Inter, sans-serif" font-size="10" fill="#6B7280">Works anywhere</text>
+    <circle cx="436" cy="18" r="14" fill="#EDF3F0"/>
+    <text x="436" y="23" text-anchor="middle" font-family="Inter, sans-serif" font-size="13">🔒</text>
+    <text x="456" y="16" font-family="Inter, sans-serif" font-size="11.5" font-weight="700" fill="#1F2937">Secure</text>
+    <text x="456" y="30" font-family="Inter, sans-serif" font-size="10" fill="#6B7280">Your data protected</text>
+  </g>
+
+  <rect x="248" y="64" width="396" height="38" rx="19" fill="#FFFFFF" stroke="#E2DEC9" stroke-width="1.2"/>
+  <text x="268" y="88" font-family="Inter, sans-serif" font-size="12.5" font-weight="500" fill="#6B7280">🔍  Search events, keywords, location...</text>
+  <circle cx="624" cy="83" r="13" fill="#EDF3F0"/>
+  <text x="624" y="87" text-anchor="middle" font-family="Inter, sans-serif" font-size="12" font-weight="700" fill="#1F6F50">→</text>
+
+  <rect x="656.0" y="68" width="42.0" height="32" rx="16" fill="#1F6F50"/><text x="677.0" y="89" text-anchor="middle" font-family="Inter, sans-serif" font-size="11.5" font-weight="700" fill="#FFFFFF">All</text><rect x="704.0" y="68" width="58.8" height="32" rx="16" fill="#F0EDE6" stroke="#E0DDD4" stroke-width="1"/><text x="733.4" y="89" text-anchor="middle" font-family="Inter, sans-serif" font-size="11.5" font-weight="600" fill="#374151">Health</text><rect x="768.8" y="68" width="79.2" height="32" rx="16" fill="#F0EDE6" stroke="#E0DDD4" stroke-width="1"/><text x="808.4" y="89" text-anchor="middle" font-family="Inter, sans-serif" font-size="11.5" font-weight="600" fill="#374151">Screening</text><rect x="854.0" y="68" width="72.4" height="32" rx="16" fill="#F0EDE6" stroke="#E0DDD4" stroke-width="1"/><text x="890.2" y="89" text-anchor="middle" font-family="Inter, sans-serif" font-size="11.5" font-weight="600" fill="#374151">Workshop</text><rect x="932.4" y="68" width="45.2" height="32" rx="16" fill="#F0EDE6" stroke="#E0DDD4" stroke-width="1"/><text x="955.0" y="89" text-anchor="middle" font-family="Inter, sans-serif" font-size="11.5" font-weight="600" fill="#374151">Talk</text><rect x="983.6" y="68" width="58.8" height="32" rx="16" fill="#F0EDE6" stroke="#E0DDD4" stroke-width="1"/><text x="1013.0" y="89" text-anchor="middle" font-family="Inter, sans-serif" font-size="11.5" font-weight="600" fill="#374151">Family</text>
+
+  
+        <rect x="1146" y="66" width="96" height="36" rx="18" fill="#FFFFFF" stroke="#1F6F50" stroke-width="1.5"/>
+        <rect x="1149" y="69" width="47" height="30" rx="15" fill="#1F6F50"/>
+        <text x="1172" y="89" text-anchor="middle" font-family="Inter, sans-serif" font-size="11.5" font-weight="800" fill="#FFFFFF">EN</text>
+        <text x="1217" y="89" text-anchor="middle" font-family="Inter, sans-serif" font-size="11.5" font-weight="600" fill="#6B7280">BM</text>
+
+  <rect x="1248" y="66" width="78" height="36" rx="18" fill="#FFFFFF" stroke="#1F6F50" stroke-width="1.5"/><text x="1287" y="89" text-anchor="middle" font-family="Inter, sans-serif" font-size="12" font-weight="700" fill="#153B30">Log in</text><rect x="1332" y="66" width="82" height="36" rx="18" fill="#1F6F50"/><text x="1373" y="89" text-anchor="middle" font-family="Inter, sans-serif" font-size="12" font-weight="700" fill="#FFFFFF">Sign up</text>
+
+  
+    <text x="248" y="138" font-family="Inter, sans-serif" font-size="11" font-weight="700" fill="#1F6F50" letter-spacing="1.2">BROWSE ALL COMMUNITY HEALTH EVENTS</text>
+    <text x="248" y="164" font-family="Inter, sans-serif" font-size="22" font-weight="800" fill="#1F2937">All Upcoming Events (6 Active Events)</text>
+    <text x="1412" y="162" text-anchor="end" font-family="Inter, sans-serif" font-size="12.5" font-weight="600" fill="#6B7280">Showing all 6 events · Click any event to view details &amp; register</text>
+
+    <!-- Row 1: 3 Core Community Events (Moved up to y=182, height=318) -->
+    <g transform="translate(0, -206)">
+      <g>
+      <rect x="248" y="388" width="372" height="318" rx="16" fill="#FFFFFF" stroke="#E6E2D8" stroke-width="1.2"/>
+      
+    <defs>
+      <clipPath id="cardClip_c1_258_398">
+        <rect x="258" y="398" width="352" height="136" rx="12"/>
+      </clipPath>
+    </defs>
+    <g clip-path="url(#cardClip_c1_258_398)">
+      
+        <rect x="258" y="398" width="352" height="136" fill="#E9E4D8"/>
+        <rect x="298" y="410" width="95" height="85" rx="4" fill="#F7F5F0" stroke="#D5CFC2" stroke-width="2"/>
+        <line x1="345" y1="410" x2="345" y2="495" stroke="#D5CFC2" stroke-width="2"/>
+        <ellipse cx="578" cy="453" rx="24" ry="32" fill="#2E6F54" opacity="0.85"/>
+        <rect x="568" y="480" width="20" height="24" rx="3" fill="#C68B59"/>
+        <rect x="318" y="504" width="252" height="40" fill="#D5B895"/>
+        <circle cx="373" cy="452" r="18" fill="#E0B596"/>
+        <path d="M355 446 Q373 428 391 446" fill="#D6D6D6"/>
+        <path d="M343 510 Q373 472 403 510 Z" fill="#7D8C7D"/>
+        <circle cx="446" cy="446" r="17" fill="#EAC0A2"/>
+        <path d="M429 440 Q446 422 463 440" fill="#262626"/>
+        <path d="M416 510 Q446 468 476 510 Z" fill="#1F6F50"/>
+        <rect x="408" y="490" width="26" height="16" rx="3" fill="#374151"/>
+        <circle cx="516" cy="452" r="18" fill="#E5BA9B"/>
+        <path d="M488 510 Q516 472 546 510 Z" fill="#F4F1EA"/>
+        
+      <rect x="270" y="500" width="66" height="24" rx="12" fill="#FFFFFF" stroke="#E2DEC9" stroke-width="1"/>
+      <circle cx="282" cy="512" r="4" fill="#1F6F50"/>
+      <text x="291" y="516" font-family="Inter, sans-serif" font-size="11" font-weight="700" fill="#1F6F50">Active</text>
+      <rect x="342" y="500" width="78" height="24" rx="12" fill="#EDF3F0" opacity="0.95"/>
+      <text x="381" y="516" text-anchor="middle" font-family="Inter, sans-serif" font-size="10.5" font-weight="600" fill="#153B30">Screening</text>
+    </g>
+    
+      <text x="266" y="558" font-family="Inter, sans-serif" font-size="15.5" font-weight="700" fill="#1F2937">Community Health Screening</text>
+      <text x="266" y="582" font-family="Inter, sans-serif" font-size="12.5" font-weight="500" fill="#4B5563">📅  15 Mar 2027 · 10:00 – 12:00</text>
+      <text x="266" y="604" font-family="Inter, sans-serif" font-size="12.5" font-weight="500" fill="#4B5563">📍  NU Community Centre</text>
+      <text x="266" y="627" font-family="Inter, sans-serif" font-size="12" font-weight="600" fill="#1F6F50">🌐 Online 20     👥 Offline 10</text>
+      <rect x="264" y="658" width="340" height="36" rx="10" fill="#1F6F50"/>
+      <text x="434" y="681" text-anchor="middle" font-family="Inter, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">View details  →</text>
+    </g>
+    
+    
+    <g>
+      <rect x="644" y="388" width="372" height="318" rx="16" fill="#FFFFFF" stroke="#E6E2D8" stroke-width="1.2"/>
+      
+    <defs>
+      <clipPath id="cardClip_c2_654_398">
+        <rect x="654" y="398" width="352" height="136" rx="12"/>
+      </clipPath>
+    </defs>
+    <g clip-path="url(#cardClip_c2_654_398)">
+      
+        <rect x="654" y="398" width="352" height="136" fill="#EFECE4"/>
+        <line x1="684" y1="430" x2="784" y2="430" stroke="#C2A886" stroke-width="4"/>
+        <line x1="884" y1="430" x2="984" y2="430" stroke="#C2A886" stroke-width="4"/>
+        <circle cx="714" cy="420" r="8" fill="#4A7C59"/>
+        <circle cx="934" cy="420" r="9" fill="#5B8C69"/>
+        <circle cx="766" cy="448" r="16" fill="#E8BE9E"/>
+        <path d="M740 506 Q766 468 792 506 Z" fill="#1F6F50"/>
+        <circle cx="834" cy="460" r="13" fill="#ECC4A6"/>
+        <path d="M814 506 Q834 476 854 506 Z" fill="#2D7A5B"/>
+        <circle cx="902" cy="444" r="17" fill="#E2B494"/>
+        <path d="M874 506 Q902 466 930 506 Z" fill="#1F6F50"/>
+        <rect x="674" y="500" width="312" height="44" fill="#F8F6F1"/>
+        <ellipse cx="799" cy="504" rx="26" ry="10" fill="#52946B"/>
+        <ellipse cx="864" cy="506" rx="22" ry="9" fill="#E07A47"/>
+        <circle cx="829" cy="510" r="6" fill="#E2A83B"/>
+        
+      <rect x="666" y="500" width="66" height="24" rx="12" fill="#FFFFFF" stroke="#E2DEC9" stroke-width="1"/>
+      <circle cx="678" cy="512" r="4" fill="#1F6F50"/>
+      <text x="687" y="516" font-family="Inter, sans-serif" font-size="11" font-weight="700" fill="#1F6F50">Active</text>
+      <rect x="738" y="500" width="78" height="24" rx="12" fill="#EDF3F0" opacity="0.95"/>
+      <text x="777" y="516" text-anchor="middle" font-family="Inter, sans-serif" font-size="10.5" font-weight="600" fill="#153B30">Workshop</text>
+    </g>
+    
+      <text x="662" y="558" font-family="Inter, sans-serif" font-size="15.5" font-weight="700" fill="#1F2937">Healthy Cooking for Families</text>
+      <text x="662" y="582" font-family="Inter, sans-serif" font-size="12.5" font-weight="500" fill="#4B5563">📅  20 Mar 2027 · 14:00 – 16:00</text>
+      <text x="662" y="604" font-family="Inter, sans-serif" font-size="12.5" font-weight="500" fill="#4B5563">📍  Rose Community Hall</text>
+      <text x="662" y="627" font-family="Inter, sans-serif" font-size="12" font-weight="600" fill="#1F6F50">🌐 Online 30     👥 Offline 10</text>
+      <rect x="660" y="658" width="340" height="36" rx="10" fill="#1F6F50"/>
+      <text x="830" y="681" text-anchor="middle" font-family="Inter, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">View details  →</text>
+    </g>
+    
+    
+    <g>
+      <rect x="1040" y="388" width="372" height="318" rx="16" fill="#FFFFFF" stroke="#E6E2D8" stroke-width="1.2"/>
+      
+    <defs>
+      <clipPath id="cardClip_c3_1050_398">
+        <rect x="1050" y="398" width="352" height="136" rx="12"/>
+      </clipPath>
+    </defs>
+    <g clip-path="url(#cardClip_c3_1050_398)">
+      
+        <rect x="1050" y="398" width="352" height="136" fill="#E8E4D9"/>
+        <rect x="1185" y="408" width="95" height="80" fill="#FBF9F4"/>
+        <ellipse cx="1098" cy="453" rx="22" ry="34" fill="#3B7A57"/>
+        <ellipse cx="1370" cy="456" rx="20" ry="30" fill="#3B7A57"/>
+        <circle cx="1145" cy="452" r="15" fill="#E2B494"/>
+        <path d="M1122 510 Q1145 472 1168 510 Z" fill="#D9CFC3"/>
+        <circle cx="1206" cy="450" r="15" fill="#EAC0A2"/>
+        <path d="M1186 510 Q1206 472 1226 510 Z" fill="#88B69E"/>
+        <circle cx="1262" cy="450" r="15" fill="#E5BA9B"/>
+        <path d="M1242 510 Q1262 472 1282 510 Z" fill="#DFB982"/>
+        <circle cx="1324" cy="452" r="15" fill="#D8A788"/>
+        <path d="M1300 510 Q1324 472 1348 510 Z" fill="#A65E3E"/>
+        <ellipse cx="1234" cy="513" rx="55" ry="12" fill="#C8A987"/>
+        
+      <rect x="1062" y="500" width="66" height="24" rx="12" fill="#FFFFFF" stroke="#E2DEC9" stroke-width="1"/>
+      <circle cx="1074" cy="512" r="4" fill="#1F6F50"/>
+      <text x="1083" y="516" font-family="Inter, sans-serif" font-size="11" font-weight="700" fill="#1F6F50">Active</text>
+      <rect x="1134" y="500" width="78" height="24" rx="12" fill="#EDF3F0" opacity="0.95"/>
+      <text x="1173" y="516" text-anchor="middle" font-family="Inter, sans-serif" font-size="10.5" font-weight="600" fill="#153B30">Family</text>
+    </g>
+    
+      <text x="1058" y="558" font-family="Inter, sans-serif" font-size="15.5" font-weight="700" fill="#1F2937">Mental Wellness Talk</text>
+      <text x="1058" y="582" font-family="Inter, sans-serif" font-size="12.5" font-weight="500" fill="#4B5563">📅  25 Mar 2027 · 10:00 – 11:30</text>
+      <text x="1058" y="604" font-family="Inter, sans-serif" font-size="12.5" font-weight="500" fill="#4B5563">📍  NU Library</text>
+      <text x="1058" y="627" font-family="Inter, sans-serif" font-size="12" font-weight="600" fill="#1F6F50">🌐 Online 50     👥 Offline 20</text>
+      <rect x="1056" y="658" width="340" height="36" rx="10" fill="#1F6F50"/>
+      <text x="1226" y="681" text-anchor="middle" font-family="Inter, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">View details  →</text>
+    </g>
+    </g>
+
+    <!-- Row 2: 3 Additional Community Health Events (y=518, height=318) -->
+    <g>
+      <rect x="248" y="518" width="372" height="318" rx="16" fill="#FFFFFF" stroke="#E6E2D8" stroke-width="1.2"/>
+      <rect x="258" y="528" width="352" height="136" rx="12" fill="#E8EFEA"/>
+      <circle cx="340" cy="586" r="22" fill="#88B69E"/>
+      <circle cx="434" cy="582" r="24" fill="#1F6F50"/>
+      <circle cx="524" cy="588" r="20" fill="#DFB982"/>
+      <rect x="270" y="630" width="66" height="24" rx="12" fill="#FFFFFF" stroke="#E2DEC9"/>
+      <circle cx="282" cy="642" r="4" fill="#1F6F50"/>
+      <text x="291" y="646" font-family="Inter, sans-serif" font-size="11" font-weight="700" fill="#1F6F50">Active</text>
+      <rect x="342" y="630" width="78" height="24" rx="12" fill="#EDF3F0"/>
+      <text x="381" y="646" text-anchor="middle" font-family="Inter, sans-serif" font-size="10.5" font-weight="600" fill="#153B30">Health</text>
+      <text x="266" y="688" font-family="Inter, sans-serif" font-size="15.5" font-weight="700" fill="#1F2937">Women&apos;s Cervical Health Check</text>
+      <text x="266" y="712" font-family="Inter, sans-serif" font-size="12.5" font-weight="500" fill="#4B5563">📅  28 Mar 2027 · 09:30 – 12:30</text>
+      <text x="266" y="734" font-family="Inter, sans-serif" font-size="12.5" font-weight="500" fill="#4B5563">📍  ROSE Clinic Petaling Jaya</text>
+      <text x="266" y="757" font-family="Inter, sans-serif" font-size="12" font-weight="600" fill="#1F6F50">🌐 Online 25     👥 Offline 15</text>
+      <rect x="264" y="788" width="340" height="36" rx="10" fill="#1F6F50"/>
+      <text x="434" y="811" text-anchor="middle" font-family="Inter, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">View details  →</text>
+    </g>
+
+    <g>
+      <rect x="644" y="518" width="372" height="318" rx="16" fill="#FFFFFF" stroke="#E6E2D8" stroke-width="1.2"/>
+      <rect x="654" y="528" width="352" height="136" rx="12" fill="#F4EFE6"/>
+      <circle cx="740" cy="586" r="22" fill="#D59F67"/>
+      <circle cx="830" cy="582" r="24" fill="#3B7A57"/>
+      <circle cx="918" cy="588" r="20" fill="#88B69E"/>
+      <rect x="666" y="630" width="66" height="24" rx="12" fill="#FFFFFF" stroke="#E2DEC9"/>
+      <circle cx="678" cy="642" r="4" fill="#1F6F50"/>
+      <text x="687" y="646" font-family="Inter, sans-serif" font-size="11" font-weight="700" fill="#1F6F50">Active</text>
+      <rect x="738" y="630" width="78" height="24" rx="12" fill="#EDF3F0"/>
+      <text x="777" y="646" text-anchor="middle" font-family="Inter, sans-serif" font-size="10.5" font-weight="600" fill="#153B30">Workshop</text>
+      <text x="662" y="688" font-family="Inter, sans-serif" font-size="15.5" font-weight="700" fill="#1F2937">Senior Mobility &amp; Balance Session</text>
+      <text x="662" y="712" font-family="Inter, sans-serif" font-size="12.5" font-weight="500" fill="#4B5563">📅  02 Apr 2027 · 10:00 – 11:30</text>
+      <text x="662" y="734" font-family="Inter, sans-serif" font-size="12.5" font-weight="500" fill="#4B5563">📍  Sentul Community Hall</text>
+      <text x="662" y="757" font-family="Inter, sans-serif" font-size="12" font-weight="600" fill="#1F6F50">🌐 Online 20     👥 Offline 15</text>
+      <rect x="660" y="788" width="340" height="36" rx="10" fill="#1F6F50"/>
+      <text x="830" y="811" text-anchor="middle" font-family="Inter, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">View details  →</text>
+    </g>
+
+    <g>
+      <rect x="1040" y="518" width="372" height="318" rx="16" fill="#FFFFFF" stroke="#E6E2D8" stroke-width="1.2"/>
+      <rect x="1050" y="528" width="352" height="136" rx="12" fill="#EDF3F0"/>
+      <circle cx="1136" cy="586" r="22" fill="#1F6F50"/>
+      <circle cx="1226" cy="582" r="24" fill="#DFB982"/>
+      <circle cx="1314" cy="588" r="20" fill="#3B7A57"/>
+      <rect x="1062" y="630" width="66" height="24" rx="12" fill="#FFFFFF" stroke="#E2DEC9"/>
+      <circle cx="1074" cy="642" r="4" fill="#1F6F50"/>
+      <text x="1083" y="646" font-family="Inter, sans-serif" font-size="11" font-weight="700" fill="#1F6F50">Active</text>
+      <rect x="1134" y="630" width="78" height="24" rx="12" fill="#EDF3F0"/>
+      <text x="1173" y="646" text-anchor="middle" font-family="Inter, sans-serif" font-size="10.5" font-weight="600" fill="#153B30">Talk</text>
+      <text x="1058" y="688" font-family="Inter, sans-serif" font-size="15.5" font-weight="700" fill="#1F2937">Diabetes &amp; Heart Health Talk</text>
+      <text x="1058" y="712" font-family="Inter, sans-serif" font-size="12.5" font-weight="500" fill="#4B5563">📅  08 Apr 2027 · 14:00 – 16:00</text>
+      <text x="1058" y="734" font-family="Inter, sans-serif" font-size="12.5" font-weight="500" fill="#4B5563">📍  NU Community Centre</text>
+      <text x="1058" y="757" font-family="Inter, sans-serif" font-size="12" font-weight="600" fill="#1F6F50">🌐 Online 40     👥 Offline 20</text>
+      <rect x="1056" y="788" width="340" height="36" rx="10" fill="#1F6F50"/>
+      <text x="1226" y="811" text-anchor="middle" font-family="Inter, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">View details  →</text>
+    </g>
+    
+</svg>

@@ -1,0 +1,129 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 900" width="1440" height="900">
+  <rect x="0" y="0" width="1440" height="900" fill="#FAF8F4"/>
+  <rect x="0" y="0" width="220" height="900" fill="#153B30"/>
+  
+    <g transform="translate(20,20) scale(0.95)">
+      <circle cx="22" cy="22" r="22" fill="#F3EFE6"/>
+      <path d="M22 36 C10 32, 6 20, 12 11 C16 14, 20 22, 22 36 Z" fill="#D59F67"/>
+      <path d="M22 36 C34 32, 38 20, 32 11 C28 14, 24 22, 22 36 Z" fill="#1F6F50"/>
+      <path d="M22 33 C15 25, 14 15, 22 9 C30 15, 29 25, 22 33 Z" fill="#88B69E"/>
+      <circle cx="22" cy="18" r="4.2" fill="#DFB982"/>
+    </g>
+    
+  <text x="72" y="38" font-family="Inter, sans-serif" font-size="15" font-weight="800" fill="#FAF8F4" letter-spacing="0.5">ROSE · PULSE</text>
+  <text x="72" y="54" font-family="Inter, sans-serif" font-size="10" font-weight="500" fill="#88B69E">Community Health Portal</text>
+  <text x="32" y="113" font-family="Inter, sans-serif" font-size="13.5" font-weight="500" fill="#D5E3DC">🏠  Home</text>
+  <text x="32" y="161" font-family="Inter, sans-serif" font-size="13.5" font-weight="500" fill="#D5E3DC">📅  Events</text>
+  <text x="32" y="209" font-family="Inter, sans-serif" font-size="13.5" font-weight="500" fill="#D5E3DC">☷  My registrations</text>
+  <rect x="16" y="232" width="188" height="40" rx="10" fill="#DFB982"/><text x="32" y="257" font-family="Inter, sans-serif" font-size="13.5" font-weight="700" fill="#18241E">👤  Profile</text>
+  <line x1="20" y1="756" x2="200" y2="756" stroke="#265345" stroke-width="1"/>
+  <text x="24" y="782" font-family="Inter, sans-serif" font-size="11.5" font-weight="500" fill="#9AB8AC">A place for everyone.</text>
+  <text x="24" y="800" font-family="Inter, sans-serif" font-size="11.5" font-weight="500" fill="#9AB8AC">A community for you.</text>
+  <text x="24" y="836" font-family="Inter, sans-serif" font-size="12.5" font-weight="500" fill="#D5E3DC">❓  Help &amp; information</text>
+  <text x="24" y="868" font-family="Inter, sans-serif" font-size="12.5" font-weight="600" fill="#DFB982">↪  Sign out</text>
+
+  <g transform="translate(248,12) scale(0.92)">
+      <circle cx="22" cy="22" r="22" fill="#F3EFE6"/>
+      <path d="M22 36 C10 32, 6 20, 12 11 C16 14, 20 22, 22 36 Z" fill="#D59F67"/>
+      <path d="M22 36 C34 32, 38 20, 32 11 C28 14, 24 22, 22 36 Z" fill="#1F6F50"/>
+      <path d="M22 33 C15 25, 14 15, 22 9 C30 15, 29 25, 22 33 Z" fill="#88B69E"/>
+      <circle cx="22" cy="18" r="4.2" fill="#DFB982"/>
+    </g>
+    
+  <text x="298" y="32" font-family="Inter, sans-serif" font-size="21" font-weight="800" fill="#153B30" letter-spacing="0.4">ROSE · PULSE</text>
+  <text x="298" y="48" font-family="Inter, sans-serif" font-size="11" font-weight="500" fill="#55625A">Community Health · People · Opportunity</text>
+  <line x1="518" y1="14" x2="518" y2="52" stroke="#D8D4C8" stroke-width="1.2"/>
+  <text x="534" y="30" font-family="Inter, sans-serif" font-size="13.5" font-weight="700" fill="#1F2937">Connected communities. Healthier lives.</text>
+  <text x="534" y="47" font-family="Inter, sans-serif" font-size="11" font-weight="500" fill="#6B7280">Events · Screening · Support · Together</text>
+
+  <g transform="translate(835, 14)">
+    <circle cx="16" cy="18" r="14" fill="#EDF3F0"/>
+    <text x="16" y="23" text-anchor="middle" font-family="Inter, sans-serif" font-size="13">🧘</text>
+    <text x="36" y="16" font-family="Inter, sans-serif" font-size="11.5" font-weight="700" fill="#1F2937">Accessible</text>
+    <text x="36" y="30" font-family="Inter, sans-serif" font-size="10" fill="#6B7280">Simple for everyone</text>
+    <circle cx="156" cy="18" r="14" fill="#FDF2EE"/>
+    <text x="156" y="23" text-anchor="middle" font-family="Inter, sans-serif" font-size="13">❤️</text>
+    <text x="176" y="16" font-family="Inter, sans-serif" font-size="11.5" font-weight="700" fill="#1F2937">Inclusive</text>
+    <text x="176" y="30" font-family="Inter, sans-serif" font-size="10" fill="#6B7280">All communities</text>
+    <circle cx="292" cy="18" r="14" fill="#F6EFE2"/>
+    <text x="292" y="23" text-anchor="middle" font-family="Inter, sans-serif" font-size="13">⚡</text>
+    <text x="312" y="16" font-family="Inter, sans-serif" font-size="11.5" font-weight="700" fill="#1F2937">Offline Ready</text>
+    <text x="312" y="30" font-family="Inter, sans-serif" font-size="10" fill="#6B7280">Works anywhere</text>
+    <circle cx="436" cy="18" r="14" fill="#EDF3F0"/>
+    <text x="436" y="23" text-anchor="middle" font-family="Inter, sans-serif" font-size="13">🔒</text>
+    <text x="456" y="16" font-family="Inter, sans-serif" font-size="11.5" font-weight="700" fill="#1F2937">Secure</text>
+    <text x="456" y="30" font-family="Inter, sans-serif" font-size="10" fill="#6B7280">Your data protected</text>
+  </g>
+
+  <rect x="248" y="64" width="396" height="38" rx="19" fill="#FFFFFF" stroke="#E2DEC9" stroke-width="1.2"/>
+  <text x="268" y="88" font-family="Inter, sans-serif" font-size="12.5" font-weight="500" fill="#6B7280">🔍  Search my registrations...</text>
+  <circle cx="624" cy="83" r="13" fill="#EDF3F0"/>
+  <text x="624" y="87" text-anchor="middle" font-family="Inter, sans-serif" font-size="12" font-weight="700" fill="#1F6F50">→</text>
+
+  <rect x="656.0" y="68" width="42.0" height="32" rx="16" fill="#1F6F50"/><text x="677.0" y="89" text-anchor="middle" font-family="Inter, sans-serif" font-size="11.5" font-weight="700" fill="#FFFFFF">All</text><rect x="704.0" y="68" width="58.8" height="32" rx="16" fill="#F0EDE6" stroke="#E0DDD4" stroke-width="1"/><text x="733.4" y="89" text-anchor="middle" font-family="Inter, sans-serif" font-size="11.5" font-weight="600" fill="#374151">Health</text><rect x="768.8" y="68" width="79.2" height="32" rx="16" fill="#F0EDE6" stroke="#E0DDD4" stroke-width="1"/><text x="808.4" y="89" text-anchor="middle" font-family="Inter, sans-serif" font-size="11.5" font-weight="600" fill="#374151">Screening</text><rect x="854.0" y="68" width="72.4" height="32" rx="16" fill="#F0EDE6" stroke="#E0DDD4" stroke-width="1"/><text x="890.2" y="89" text-anchor="middle" font-family="Inter, sans-serif" font-size="11.5" font-weight="600" fill="#374151">Workshop</text><rect x="932.4" y="68" width="45.2" height="32" rx="16" fill="#F0EDE6" stroke="#E0DDD4" stroke-width="1"/><text x="955.0" y="89" text-anchor="middle" font-family="Inter, sans-serif" font-size="11.5" font-weight="600" fill="#374151">Talk</text><rect x="983.6" y="68" width="58.8" height="32" rx="16" fill="#F0EDE6" stroke="#E0DDD4" stroke-width="1"/><text x="1013.0" y="89" text-anchor="middle" font-family="Inter, sans-serif" font-size="11.5" font-weight="600" fill="#374151">Family</text>
+
+  
+        <rect x="1146" y="66" width="96" height="36" rx="18" fill="#FFFFFF" stroke="#1F6F50" stroke-width="1.5"/>
+        <rect x="1149" y="69" width="47" height="30" rx="15" fill="#1F6F50"/>
+        <text x="1172" y="89" text-anchor="middle" font-family="Inter, sans-serif" font-size="11.5" font-weight="800" fill="#FFFFFF">EN</text>
+        <text x="1217" y="89" text-anchor="middle" font-family="Inter, sans-serif" font-size="11.5" font-weight="600" fill="#6B7280">BM</text>
+
+  <rect x="1250" y="66" width="164" height="36" rx="18" fill="#EDF3F0" stroke="#88B69E" stroke-width="1.2"/><circle cx="1270" cy="84" r="11" fill="#1F6F50"/><text x="1270" y="88" text-anchor="middle" font-family="Inter, sans-serif" font-size="10" font-weight="700" fill="#FFFFFF">RP</text><text x="1287" y="88" font-family="Inter, sans-serif" font-size="11" font-weight="700" fill="#153B30">Welcome, Chan</text>
+
+  
+    <rect x="280" y="130" width="1080" height="710" rx="22" fill="#FFFFFF" stroke="#E6E2D8" stroke-width="1.5"/>
+    <rect x="280" y="130" width="1080" height="78" rx="22" fill="#153B30"/>
+    <circle cx="334" cy="169" r="24" fill="#1F6F50" stroke="#DFB982" stroke-width="2"/>
+    <text x="334" y="176" text-anchor="middle" font-family="Inter, sans-serif" font-size="16" font-weight="800" fill="#FFFFFF">CT</text>
+    <text x="374" y="164" font-family="Inter, sans-serif" font-size="20" font-weight="800" fill="#FFFFFF">Chan Tai Man · My Profile</text>
+    <text x="374" y="188" font-family="Inter, sans-serif" font-size="12.5" font-weight="500" fill="#DFB982">✓ Verified Participant Account  ·  Member since Mar 2027</text>
+
+    <!-- Top-Right Prominent Sign Out Button inside Profile Header -->
+    <rect x="1164" y="148" width="164" height="42" rx="10" fill="#FDF2EE" stroke="#D89561" stroke-width="1.5"/>
+    <text x="1246" y="174" text-anchor="middle" font-family="Inter, sans-serif" font-size="13.5" font-weight="800" fill="#9A3412">↪  Sign Out</text>
+
+    <text x="324" y="250" font-family="Inter, sans-serif" font-size="15.5" font-weight="800" fill="#153B30">Personal Information</text>
+    <line x1="324" y1="264" x2="1316" y2="264" stroke="#E6E2D8" stroke-width="1"/>
+
+    <text x="324" y="302" font-family="Inter, sans-serif" font-size="12.5" font-weight="600" fill="#374151">First Name</text>
+    <rect x="324" y="312" width="468" height="46" rx="10" fill="#FAF8F4" stroke="#1F6F50" stroke-width="1.4"/>
+    <text x="344" y="341" font-family="Inter, sans-serif" font-size="14" font-weight="600" fill="#1F2937">Chan</text>
+
+    <text x="832" y="302" font-family="Inter, sans-serif" font-size="12.5" font-weight="600" fill="#374151">Last Name</text>
+    <rect x="832" y="312" width="484" height="46" rx="10" fill="#FAF8F4" stroke="#1F6F50" stroke-width="1.4"/>
+    <text x="852" y="341" font-family="Inter, sans-serif" font-size="14" font-weight="600" fill="#1F2937">Tai Man</text>
+
+    <text x="324" y="392" font-family="Inter, sans-serif" font-size="12.5" font-weight="600" fill="#374151">Mobile Phone Number (SMS Verified)</text>
+    <rect x="324" y="402" width="468" height="46" rx="10" fill="#EDF3F0" stroke="#1F6F50" stroke-width="1.4"/>
+    <text x="344" y="431" font-family="Inter, sans-serif" font-size="14" font-weight="700" fill="#153B30">+60 12-345 6789   ✓ Verified</text>
+
+    <text x="832" y="392" font-family="Inter, sans-serif" font-size="12.5" font-weight="600" fill="#374151">National ID (MyKad / Passport)</text>
+    <rect x="832" y="402" width="484" height="46" rx="10" fill="#FAF8F4" stroke="#E2DEC9" stroke-width="1.4"/>
+    <text x="852" y="431" font-family="Inter, sans-serif" font-size="14" font-weight="600" fill="#1F2937">850312-14-5566</text>
+
+    <text x="324" y="482" font-family="Inter, sans-serif" font-size="12.5" font-weight="600" fill="#374151">Date of Birth &amp; Gender</text>
+    <rect x="324" y="492" width="468" height="46" rx="10" fill="#FAF8F4" stroke="#E2DEC9" stroke-width="1.4"/>
+    <text x="344" y="521" font-family="Inter, sans-serif" font-size="14" font-weight="600" fill="#1F2937">12/03/1985  ·  Male</text>
+
+    <text x="832" y="482" font-family="Inter, sans-serif" font-size="12.5" font-weight="600" fill="#374151">Email Address</text>
+    <rect x="832" y="492" width="484" height="46" rx="10" fill="#FAF8F4" stroke="#E2DEC9" stroke-width="1.4"/>
+    <text x="852" y="521" font-family="Inter, sans-serif" font-size="14" font-weight="600" fill="#1F2937">chan.taiman@example.com</text>
+
+    <text x="324" y="574" font-family="Inter, sans-serif" font-size="12.5" font-weight="600" fill="#374151">Preferred Language</text>
+    <rect x="324" y="586" width="144" height="40" rx="10" fill="#1F6F50"/>
+    <text x="396" y="611" text-anchor="middle" font-family="Inter, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">English (EN)</text>
+    <rect x="480" y="586" width="160" height="40" rx="10" fill="#FAF8F4" stroke="#E2DEC9"/>
+    <text x="560" y="611" text-anchor="middle" font-family="Inter, sans-serif" font-size="13" font-weight="600" fill="#374151">Bahasa Melayu</text>
+
+    <line x1="324" y1="654" x2="1316" y2="654" stroke="#E6E2D8" stroke-width="1"/>
+
+    <rect x="324" y="680" width="340" height="50" rx="12" fill="#1F6F50"/>
+    <text x="494" y="711" text-anchor="middle" font-family="Inter, sans-serif" font-size="14.5" font-weight="800" fill="#FFFFFF">Save Profile Changes</text>
+
+    <rect x="684" y="680" width="320" height="50" rx="12" fill="#EDF3F0" stroke="#1F6F50" stroke-width="1.4"/>
+    <text x="844" y="711" text-anchor="middle" font-family="Inter, sans-serif" font-size="14" font-weight="700" fill="#153B30">View My Registrations (3)  →</text>
+
+    <rect x="1024" y="680" width="292" height="50" rx="12" fill="#FDF2EE" stroke="#D89561" stroke-width="1.5"/>
+    <text x="1170" y="711" text-anchor="middle" font-family="Inter, sans-serif" font-size="14" font-weight="800" fill="#9A3412">↪  Sign Out of Account</text>
+    
+</svg>

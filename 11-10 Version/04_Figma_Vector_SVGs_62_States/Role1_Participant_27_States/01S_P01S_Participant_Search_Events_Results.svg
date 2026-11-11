@@ -1,0 +1,360 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 900" width="1440" height="900">
+  <rect x="0" y="0" width="1440" height="900" fill="#FAF8F4"/>
+
+  <!-- Left Sidebar (Full Height 900px, Forest Green #153B30) -->
+  <rect x="0" y="0" width="220" height="900" fill="#153B30"/>
+  
+    <g transform="translate(20,20) scale(0.95)">
+      <circle cx="22" cy="22" r="22" fill="#F3EFE6"/>
+      <path d="M22 36 C10 32, 6 20, 12 11 C16 14, 20 22, 22 36 Z" fill="#D59F67"/>
+      <path d="M22 36 C34 32, 38 20, 32 11 C28 14, 24 22, 22 36 Z" fill="#1F6F50"/>
+      <path d="M22 33 C15 25, 14 15, 22 9 C30 15, 29 25, 22 33 Z" fill="#88B69E"/>
+      <circle cx="22" cy="18" r="4.2" fill="#DFB982"/>
+    </g>
+    
+  <text x="72" y="38" font-family="Inter, sans-serif" font-size="15" font-weight="800" fill="#FAF8F4" letter-spacing="0.5">ROSE · PULSE</text>
+  <text x="72" y="54" font-family="Inter, sans-serif" font-size="10" font-weight="500" fill="#88B69E">Community Health Portal</text>
+  
+    <rect x="16" y="76" width="188" height="22" rx="6" fill="#1E4D3F"/>
+    <text x="26" y="91" font-family="Inter, sans-serif" font-size="9.5" font-weight="800" fill="#DFB982" letter-spacing="0.6">GUEST VISITOR (NO LOGIN)</text>
+
+    <!-- Nav Item 1: Home -->
+    <text x="32" y="133" font-family="Inter, sans-serif" font-size="13.5" font-weight="500" fill="#D5E3DC">🏠  Home</text>
+
+    <!-- Nav Item 2: Events / Search & Filter (ACTIVE in Gold #DFB982) -->
+    <rect x="16" y="156" width="188" height="42" rx="10" fill="#DFB982"/>
+    <text x="32" y="182" font-family="Inter, sans-serif" font-size="13.5" font-weight="700" fill="#18241E">📅  Events &amp; Search</text>
+
+    <!-- Nav Item 3: Check Booking Status -->
+    <text x="32" y="235" font-family="Inter, sans-serif" font-size="13.5" font-weight="500" fill="#D5E3DC">🔍  Check Registration</text>
+
+    <!-- Nav Item 4: Sign Up / Log In -->
+    <text x="32" y="283" font-family="Inter, sans-serif" font-size="13.5" font-weight="500" fill="#D5E3DC">🔑  Sign Up / Log In</text>
+
+    <line x1="20" y1="756" x2="200" y2="756" stroke="#265345" stroke-width="1"/>
+    <text x="24" y="782" font-family="Inter, sans-serif" font-size="11.5" font-weight="500" fill="#9AB8AC">A place for everyone.</text>
+    <text x="24" y="800" font-family="Inter, sans-serif" font-size="11.5" font-weight="500" fill="#9AB8AC">A community for you.</text>
+    <text x="24" y="836" font-family="Inter, sans-serif" font-size="12.5" font-weight="500" fill="#D5E3DC">❓  Help &amp; information</text>
+    <text x="24" y="868" font-family="Inter, sans-serif" font-size="12.5" font-weight="600" fill="#DFB982">↪  Sign up / Log in</text>
+    
+
+  <!-- Top Center Header Branding -->
+  
+    <g transform="translate(248,12) scale(0.92)">
+      <circle cx="22" cy="22" r="22" fill="#F3EFE6"/>
+      <path d="M22 36 C10 32, 6 20, 12 11 C16 14, 20 22, 22 36 Z" fill="#D59F67"/>
+      <path d="M22 36 C34 32, 38 20, 32 11 C28 14, 24 22, 22 36 Z" fill="#1F6F50"/>
+      <path d="M22 33 C15 25, 14 15, 22 9 C30 15, 29 25, 22 33 Z" fill="#88B69E"/>
+      <circle cx="22" cy="18" r="4.2" fill="#DFB982"/>
+    </g>
+    
+  <text x="298" y="32" font-family="Inter, sans-serif" font-size="21" font-weight="800" fill="#153B30" letter-spacing="0.4">ROSE · PULSE</text>
+  <text x="298" y="48" font-family="Inter, sans-serif" font-size="11" font-weight="500" fill="#55625A">Community Health · People · Opportunity</text>
+  <line x1="518" y1="14" x2="518" y2="52" stroke="#D8D4C8" stroke-width="1.2"/>
+  <text x="534" y="30" font-family="Inter, sans-serif" font-size="13.5" font-weight="700" fill="#1F2937">Connected communities. Healthier lives.</text>
+  <text x="534" y="47" font-family="Inter, sans-serif" font-size="11" font-weight="500" fill="#6B7280">Events · Screening · Support · Together</text>
+
+  <!-- 4 Value Pillars -->
+  <g transform="translate(835, 14)">
+    <circle cx="16" cy="18" r="14" fill="#EDF3F0"/>
+    <text x="16" y="23" text-anchor="middle" font-family="Inter, sans-serif" font-size="13">🧘</text>
+    <text x="36" y="16" font-family="Inter, sans-serif" font-size="11.5" font-weight="700" fill="#1F2937">Accessible</text>
+    <text x="36" y="30" font-family="Inter, sans-serif" font-size="10" fill="#6B7280">Simple for everyone</text>
+    <circle cx="156" cy="18" r="14" fill="#FDF2EE"/>
+    <text x="156" y="23" text-anchor="middle" font-family="Inter, sans-serif" font-size="13">❤️</text>
+    <text x="176" y="16" font-family="Inter, sans-serif" font-size="11.5" font-weight="700" fill="#1F2937">Inclusive</text>
+    <text x="176" y="30" font-family="Inter, sans-serif" font-size="10" fill="#6B7280">All communities</text>
+    <circle cx="292" cy="18" r="14" fill="#F6EFE2"/>
+    <text x="292" y="23" text-anchor="middle" font-family="Inter, sans-serif" font-size="13">⚡</text>
+    <text x="312" y="16" font-family="Inter, sans-serif" font-size="11.5" font-weight="700" fill="#1F2937">Offline Ready</text>
+    <text x="312" y="30" font-family="Inter, sans-serif" font-size="10" fill="#6B7280">Works anywhere</text>
+    <circle cx="436" cy="18" r="14" fill="#EDF3F0"/>
+    <text x="436" y="23" text-anchor="middle" font-family="Inter, sans-serif" font-size="13">🔒</text>
+    <text x="456" y="16" font-family="Inter, sans-serif" font-size="11.5" font-weight="700" fill="#1F2937">Secure</text>
+    <text x="456" y="30" font-family="Inter, sans-serif" font-size="10" fill="#6B7280">Your data protected</text>
+  </g>
+
+  <!-- Active Search Input Bar & Category Filter Pills -->
+  
+    <!-- Active Search Box (Focused State: #1F6F50 border, clear ✕ button, green submit →) -->
+    <rect x="248" y="64" width="396" height="38" rx="19" fill="#FFFFFF" stroke="#1F6F50" stroke-width="2.2"/>
+    <text x="268" y="88" font-family="Inter, sans-serif" font-size="13" font-weight="700" fill="#1F2937">🔍  Screening</text>
+    <line x1="362" y1="74" x2="362" y2="92" stroke="#1F6F50" stroke-width="1.8"/>
+
+    <!-- Clear Query Button (✕) -->
+    <circle cx="592" cy="83" r="10" fill="#F3F4F6"/>
+    <text x="592" y="87" text-anchor="middle" font-family="Inter, sans-serif" font-size="11" font-weight="700" fill="#6B7280">✕</text>
+
+    <!-- Search Submit Button (→) -->
+    <circle cx="624" cy="83" r="13" fill="#1F6F50"/>
+    <text x="624" y="87" text-anchor="middle" font-family="Inter, sans-serif" font-size="12" font-weight="700" fill="#FFFFFF">→</text>
+
+    <!-- Category Pills: "✓ Screening (3)" is Active -->
+    <rect x="656" y="68" width="56" height="32" rx="16" fill="#F0EDE6" stroke="#E0DDD4" stroke-width="1"/>
+    <text x="684" y="89" text-anchor="middle" font-family="Inter, sans-serif" font-size="11.5" font-weight="600" fill="#374151">All (6)</text>
+
+    <!-- ACTIVE Screening Pill -->
+    <rect x="718" y="68" width="108" height="32" rx="16" fill="#1F6F50"/>
+    <text x="772" y="89" text-anchor="middle" font-family="Inter, sans-serif" font-size="11.5" font-weight="800" fill="#FFFFFF">✓ Screening (3)</text>
+
+    <rect x="832" y="68" width="68" height="32" rx="16" fill="#F0EDE6" stroke="#E0DDD4" stroke-width="1"/>
+    <text x="866" y="89" text-anchor="middle" font-family="Inter, sans-serif" font-size="11.5" font-weight="600" fill="#374151">Health (2)</text>
+
+    <rect x="906" y="68" width="86" height="32" rx="16" fill="#F0EDE6" stroke="#E0DDD4" stroke-width="1"/>
+    <text x="949" y="89" text-anchor="middle" font-family="Inter, sans-serif" font-size="11.5" font-weight="600" fill="#374151">Workshop (2)</text>
+
+    <rect x="998" y="68" width="56" height="32" rx="16" fill="#F0EDE6" stroke="#E0DDD4" stroke-width="1"/>
+    <text x="1026" y="89" text-anchor="middle" font-family="Inter, sans-serif" font-size="11.5" font-weight="600" fill="#374151">Talk (1)</text>
+
+    <rect x="1060" y="68" width="70" height="32" rx="16" fill="#F0EDE6" stroke="#E0DDD4" stroke-width="1"/>
+    <text x="1095" y="89" text-anchor="middle" font-family="Inter, sans-serif" font-size="11.5" font-weight="600" fill="#374151">Family (2)</text>
+
+    <!-- Segmented Dual-Language Toggle Pill (EN | BM) -->
+    <rect x="1146" y="66" width="96" height="36" rx="18" fill="#FFFFFF" stroke="#1F6F50" stroke-width="1.5"/>
+    <rect x="1149" y="69" width="47" height="30" rx="15" fill="#1F6F50"/>
+    <text x="1172" y="89" text-anchor="middle" font-family="Inter, sans-serif" font-size="11.5" font-weight="800" fill="#FFFFFF">EN</text>
+    <text x="1217" y="89" text-anchor="middle" font-family="Inter, sans-serif" font-size="11.5" font-weight="600" fill="#6B7280">BM</text>
+
+    <!-- Top Right Guest Pill -->
+    <rect x="1248" y="66" width="166" height="36" rx="18" fill="#1F6F50"/>
+    <text x="1331" y="89" text-anchor="middle" font-family="Inter, sans-serif" font-size="12" font-weight="700" fill="#FFFFFF">Sign up / Log in →</text>
+    
+
+  <!-- Main Search Results Page Content -->
+  
+    <!-- Breadcrumb & Results Title Header -->
+    <text x="248" y="132" font-family="Inter, sans-serif" font-size="11.5" font-weight="600" fill="#6B7280">Home  ›  Search &amp; Filter Events  ›  <tspan font-weight="700" fill="#153B30">Keyword: "Screening"</tspan></text>
+
+    <text x="248" y="162" font-family="Inter, sans-serif" font-size="23" font-weight="800" fill="#1F2937">Search Results for "Screening"</text>
+
+    <!-- Result Count Badge -->
+    <rect x="620" y="142" width="128" height="26" rx="13" fill="#EDF3F0" stroke="#88B69E" stroke-width="1.2"/>
+    <text x="684" y="159" text-anchor="middle" font-family="Inter, sans-serif" font-size="11.5" font-weight="700" fill="#153B30">3 Sessions Found</text>
+
+    <text x="248" y="185" font-family="Inter, sans-serif" font-size="12" font-weight="500" fill="#55625A">Showing verified public community screening sessions in your area. Apply directly as a guest without creating an account.</text>
+
+    <!-- Active Filters & Refine Control Bar -->
+    <rect x="248" y="198" width="1164" height="46" rx="12" fill="#FFFFFF" stroke="#E2DEC9" stroke-width="1.2"/>
+
+    <!-- Filter 1: Venue / Location Dropdown -->
+    <rect x="260" y="205" width="206" height="32" rx="8" fill="#FAF8F4" stroke="#D8D4C8"/>
+    <text x="274" y="226" font-family="Inter, sans-serif" font-size="11.5" font-weight="600" fill="#374151">📍 Location: <tspan font-weight="700" fill="#153B30">All Venues</tspan></text>
+    <text x="452" y="226" font-family="Inter, sans-serif" font-size="11" fill="#6B7280">▾</text>
+
+    <!-- Filter 2: Date Dropdown -->
+    <rect x="476" y="205" width="176" height="32" rx="8" fill="#FAF8F4" stroke="#D8D4C8"/>
+    <text x="490" y="226" font-family="Inter, sans-serif" font-size="11.5" font-weight="600" fill="#374151">📅 Date: <tspan font-weight="700" fill="#153B30">March 2027</tspan></text>
+    <text x="638" y="226" font-family="Inter, sans-serif" font-size="11" fill="#6B7280">▾</text>
+
+    <!-- Filter 3: Spots Availability -->
+    <rect x="662" y="205" width="190" height="32" rx="8" fill="#FAF8F4" stroke="#D8D4C8"/>
+    <text x="676" y="226" font-family="Inter, sans-serif" font-size="11.5" font-weight="600" fill="#374151">🟢 Spots: <tspan font-weight="700" fill="#153B30">Available Only</tspan></text>
+    <text x="838" y="226" font-family="Inter, sans-serif" font-size="11" fill="#6B7280">▾</text>
+
+    <!-- Filter 4: Quota Type -->
+    <rect x="862" y="205" width="168" height="32" rx="8" fill="#FAF8F4" stroke="#D8D4C8"/>
+    <text x="876" y="226" font-family="Inter, sans-serif" font-size="11.5" font-weight="600" fill="#374151">⚡ Quota: <tspan font-weight="700" fill="#153B30">All Channels</tspan></text>
+    <text x="1016" y="226" font-family="Inter, sans-serif" font-size="11" fill="#6B7280">▾</text>
+
+    <!-- Sort Dropdown -->
+    <rect x="1040" y="205" width="186" height="32" rx="8" fill="#FAF8F4" stroke="#D8D4C8"/>
+    <text x="1054" y="226" font-family="Inter, sans-serif" font-size="11.5" font-weight="600" fill="#374151">Sort: <tspan font-weight="700" fill="#1F6F50">Upcoming Date</tspan></text>
+    <text x="1212" y="226" font-family="Inter, sans-serif" font-size="11" fill="#6B7280">▾</text>
+
+    <!-- Clear Search Button -->
+    <rect x="1236" y="205" width="164" height="32" rx="8" fill="#FFF1F2" stroke="#FECDD3"/>
+    <text x="1318" y="226" text-anchor="middle" font-family="Inter, sans-serif" font-size="11.5" font-weight="700" fill="#BE123C">Reset Search ✕</text>
+
+    <!-- Active Filter Chips Row -->
+    <g transform="translate(248, 252)">
+      <text x="0" y="16" font-family="Inter, sans-serif" font-size="11" font-weight="700" fill="#6B7280">Active Filters:</text>
+
+      <rect x="88" y="0" width="124" height="24" rx="12" fill="#EDF3F0" stroke="#1F6F50" stroke-width="1.2"/>
+      <text x="144" y="16" text-anchor="middle" font-family="Inter, sans-serif" font-size="10.5" font-weight="700" fill="#153B30">"Screening"  ✕</text>
+
+      <rect x="220" y="0" width="102" height="24" rx="12" fill="#FAF8F4" stroke="#D8D4C8"/>
+      <text x="265" y="16" text-anchor="middle" font-family="Inter, sans-serif" font-size="10.5" font-weight="600" fill="#374151">All Venues  ✕</text>
+
+      <rect x="330" y="0" width="132" height="24" rx="12" fill="#FAF8F4" stroke="#D8D4C8"/>
+      <text x="390" y="16" text-anchor="middle" font-family="Inter, sans-serif" font-size="10.5" font-weight="600" fill="#374151">Available Spots  ✕</text>
+
+      <text x="476" y="16" font-family="Inter, sans-serif" font-size="11" font-weight="700" fill="#1F6F50" text-decoration="underline">Clear all filters</text>
+    </g>
+
+    <!-- ========================================================================= -->
+    <!-- 3 SEARCH RESULT CARDS (y=284, h=482)                                      -->
+    <!-- ========================================================================= -->
+
+    <!-- CARD 1: Community Health Screening (Best Match · Highlighted) -->
+    <g transform="translate(248, 284)">
+      <rect x="0" y="0" width="372" height="482" rx="16" fill="#FFFFFF" stroke="#1F6F50" stroke-width="2.5"/>
+      
+    <defs>
+      <clipPath id="clip_sr1_10_10">
+        <rect x="10" y="10" width="352" height="146" rx="12"/>
+      </clipPath>
+    </defs>
+    <g clip-path="url(#clip_sr1_10_10)">
+      
+        <rect x="10" y="10" width="352" height="146" fill="#E8F1EC"/>
+        <circle cx="133.2" cy="80.08" r="26" fill="#D59F67" opacity="0.85"/>
+        <rect x="87.44" y="71.32" width="28" height="34" rx="4" fill="#FFFFFF" stroke="#88B69E" stroke-width="1.5"/>
+        <line x1="105.04" y1="80.08" x2="126.16000000000001" y2="80.08" stroke="#1F6F50" stroke-width="2"/>
+        <line x1="105.04" y1="88.84" x2="126.16000000000001" y2="88.84" stroke="#1F6F50" stroke-width="2"/>
+        <path d="M193.04000000000002 126.80000000000001 C193.04000000000002 85.92, 249.36 85.92, 249.36 126.80000000000001 Z" fill="#153B30"/>
+        <circle cx="221.2" cy="68.4" r="17" fill="#E2BA9A"/>
+        <path d="M270.48 126.80000000000001 C270.48 91.76, 319.76 91.76, 319.76 126.80000000000001 Z" fill="#D59F67"/>
+        <circle cx="295.12" cy="74.24" r="15" fill="#C99573"/>
+        <ellipse cx="319.76" cy="77.16" rx="14" ry="24" fill="#2E7D5C"/>
+        
+      <rect x="22" y="122" width="72" height="24" rx="12" fill="#FFFFFF" stroke="#E2DEC9" stroke-width="1"/>
+      <circle cx="34" cy="134" r="4" fill="#1F6F50"/>
+      <text x="44" y="138" font-family="Inter, sans-serif" font-size="10.5" font-weight="700" fill="#1F6F50">Active</text>
+      <rect x="100" y="122" width="78" height="24" rx="12" fill="#EDF3F0" opacity="0.95"/>
+      <text x="139" y="138" text-anchor="middle" font-family="Inter, sans-serif" font-size="10.5" font-weight="600" fill="#153B30">Screening</text>
+    </g>
+    
+
+      <!-- Best Match Badge -->
+      <rect x="16" y="166" width="340" height="24" rx="6" fill="#FFFBEB" stroke="#FDE68A"/>
+      <text x="26" y="182" font-family="Inter, sans-serif" font-size="10" font-weight="800" fill="#92400E">⭐ BEST MATCH · Keyword "Screening" in title &amp; services</text>
+
+      <text x="18" y="214" font-family="Inter, sans-serif" font-size="15.5" font-weight="700" fill="#1F2937">Community Health Screening</text>
+      <text x="18" y="238" font-family="Inter, sans-serif" font-size="12" font-weight="500" fill="#4B5563">📅  Sat, 15 Mar 2027 · 10:00 – 12:00</text>
+      <text x="18" y="258" font-family="Inter, sans-serif" font-size="12" font-weight="500" fill="#4B5563">📍  NU Community Centre (Main Hall)</text>
+
+      <rect x="16" y="272" width="340" height="28" rx="6" fill="#EDF3F0"/>
+      <text x="26" y="290" font-family="Inter, sans-serif" font-size="11.5" font-weight="700" fill="#153B30">🌐 Online 20 places    👥 Community 10 places</text>
+
+      <text x="18" y="318" font-family="Inter, sans-serif" font-size="11" fill="#4B5563">Free blood pressure, blood glucose check, and</text>
+      <text x="18" y="334" font-family="Inter, sans-serif" font-size="11" fill="#4B5563">BMI consultation for local families.</text>
+
+      <rect x="16" y="342" width="340" height="42" rx="8" fill="#FAF8F4" stroke="#E2DEC9"/>
+      <text x="26" y="360" font-family="Inter, sans-serif" font-size="10.5" font-weight="700" fill="#1F6F50">✓ Services Included:</text>
+      <text x="26" y="375" font-family="Inter, sans-serif" font-size="10" fill="#6B7280">• Blood pressure, glucose, BMI &amp; nurse advice</text>
+
+      <!-- Primary Action CTA Button -->
+      <rect x="16" y="428" width="340" height="40" rx="10" fill="#1F6F50"/>
+      <text x="186" y="453" text-anchor="middle" font-family="Inter, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">Book Event as Guest  →</text>
+    </g>
+
+    <!-- CARD 2: Women's Cervical Health Screening -->
+    <g transform="translate(644, 284)">
+      <rect x="0" y="0" width="372" height="482" rx="16" fill="#FFFFFF" stroke="#E6E2D8" stroke-width="1.2"/>
+      
+    <defs>
+      <clipPath id="clip_sr2_10_10">
+        <rect x="10" y="10" width="352" height="146" rx="12"/>
+      </clipPath>
+    </defs>
+    <g clip-path="url(#clip_sr2_10_10)">
+      
+        <rect x="10" y="10" width="352" height="146" fill="#F7EFE9"/>
+        <circle cx="186.0" cy="75.7" r="38" fill="#FCE8DE"/>
+        <circle cx="133.2" cy="65.48" r="18" fill="#E2BA9A"/>
+        <path d="M101.52000000000001 126.80000000000001 C101.52000000000001 90.30000000000001, 164.88 90.30000000000001, 164.88 126.80000000000001 Z" fill="#9A3412"/>
+        <circle cx="238.8" cy="65.48" r="18" fill="#D59F67"/>
+        <path d="M207.12 126.80000000000001 C207.12 90.30000000000001, 270.48 90.30000000000001, 270.48 126.80000000000001 Z" fill="#1F6F50"/>
+        <path d="M178.95999999999998 53.8 L193.04000000000002 53.8 L193.04000000000002 71.32 L178.95999999999998 71.32 Z" fill="#BE123C"/>
+        
+      <rect x="22" y="122" width="72" height="24" rx="12" fill="#FFFFFF" stroke="#E2DEC9" stroke-width="1"/>
+      <circle cx="34" cy="134" r="4" fill="#1F6F50"/>
+      <text x="44" y="138" font-family="Inter, sans-serif" font-size="10.5" font-weight="700" fill="#1F6F50">Active</text>
+      <rect x="100" y="122" width="78" height="24" rx="12" fill="#EDF3F0" opacity="0.95"/>
+      <text x="139" y="138" text-anchor="middle" font-family="Inter, sans-serif" font-size="10.5" font-weight="600" fill="#153B30">Screening</text>
+    </g>
+    
+
+      <rect x="16" y="166" width="340" height="24" rx="6" fill="#F8FAFC" stroke="#E2E8F0"/>
+      <text x="26" y="182" font-family="Inter, sans-serif" font-size="10" font-weight="700" fill="#475569">🔍 MATCH · Cervical screening &amp; HPV testing</text>
+
+      <text x="18" y="214" font-family="Inter, sans-serif" font-size="15.5" font-weight="700" fill="#1F2937">Women's Cervical Screening</text>
+      <text x="18" y="238" font-family="Inter, sans-serif" font-size="12" font-weight="500" fill="#4B5563">📅  Sun, 22 Mar 2027 · 09:30 – 13:00</text>
+      <text x="18" y="258" font-family="Inter, sans-serif" font-size="12" font-weight="500" fill="#4B5563">📍  NU Community Clinic (Room 3)</text>
+
+      <rect x="16" y="272" width="340" height="28" rx="6" fill="#EDF3F0"/>
+      <text x="26" y="290" font-family="Inter, sans-serif" font-size="11.5" font-weight="700" fill="#153B30">🌐 Online 15 places    👥 Community 10 places</text>
+
+      <text x="18" y="318" font-family="Inter, sans-serif" font-size="11" fill="#4B5563">Confidential HPV self-sampling and cervical health</text>
+      <text x="18" y="334" font-family="Inter, sans-serif" font-size="11" fill="#4B5563">consultation with registered nurse team.</text>
+
+      <rect x="16" y="342" width="340" height="42" rx="8" fill="#FAF8F4" stroke="#E2DEC9"/>
+      <text x="26" y="360" font-family="Inter, sans-serif" font-size="10.5" font-weight="700" fill="#1F6F50">✓ Services Included:</text>
+      <text x="26" y="375" font-family="Inter, sans-serif" font-size="10" fill="#6B7280">• Private HPV self-sampling &amp; counseling</text>
+
+      <!-- Primary Action CTA Button -->
+      <rect x="16" y="428" width="340" height="40" rx="10" fill="#1F6F50"/>
+      <text x="186" y="453" text-anchor="middle" font-family="Inter, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">Book Event as Guest  →</text>
+    </g>
+
+    <!-- CARD 3: Senior Eye & Mobility Assessment -->
+    <g transform="translate(1040, 284)">
+      <rect x="0" y="0" width="372" height="482" rx="16" fill="#FFFFFF" stroke="#E6E2D8" stroke-width="1.2"/>
+      
+    <defs>
+      <clipPath id="clip_sr3_10_10">
+        <rect x="10" y="10" width="352" height="146" rx="12"/>
+      </clipPath>
+    </defs>
+    <g clip-path="url(#clip_sr3_10_10)">
+      
+        <rect x="10" y="10" width="352" height="146" fill="#EEF2F6"/>
+        <circle cx="186.0" cy="77.16" r="32" fill="#DFE7EF"/>
+        <circle cx="157.84" cy="68.4" r="18" fill="#D59F67"/>
+        <path d="M122.64 126.80000000000001 C122.64 91.76, 193.04000000000002 91.76, 193.04000000000002 126.80000000000001 Z" fill="#1E3A5F"/>
+        <circle cx="228.24" cy="71.32" r="16" fill="#E2BA9A"/>
+        <path d="M200.08 126.80000000000001 C200.08 94.67999999999999, 256.4 94.67999999999999, 256.4 126.80000000000001 Z" fill="#2E7D5C"/>
+        <circle cx="157.84" cy="65.48" r="7" fill="none" stroke="#FFFFFF" stroke-width="2"/>
+        <circle cx="186.0" cy="65.48" r="7" fill="none" stroke="#FFFFFF" stroke-width="2"/>
+        <line x1="171.92000000000002" y1="65.48" x2="171.92000000000002" y2="65.48" stroke="#FFFFFF" stroke-width="2"/>
+        
+      <rect x="22" y="122" width="72" height="24" rx="12" fill="#FFFFFF" stroke="#E2DEC9" stroke-width="1"/>
+      <circle cx="34" cy="134" r="4" fill="#1F6F50"/>
+      <text x="44" y="138" font-family="Inter, sans-serif" font-size="10.5" font-weight="700" fill="#1F6F50">Active</text>
+      <rect x="100" y="122" width="78" height="24" rx="12" fill="#EDF3F0" opacity="0.95"/>
+      <text x="139" y="138" text-anchor="middle" font-family="Inter, sans-serif" font-size="10.5" font-weight="600" fill="#153B30">Screening</text>
+    </g>
+    
+
+      <rect x="16" y="166" width="340" height="24" rx="6" fill="#F8FAFC" stroke="#E2E8F0"/>
+      <text x="26" y="182" font-family="Inter, sans-serif" font-size="10" font-weight="700" fill="#475569">🔍 MATCH · Senior vision &amp; mobility screening</text>
+
+      <text x="18" y="214" font-family="Inter, sans-serif" font-size="15.5" font-weight="700" fill="#1F2937">Senior Eye &amp; Mobility Assessment</text>
+      <text x="18" y="238" font-family="Inter, sans-serif" font-size="12" font-weight="500" fill="#4B5563">📅  Sat, 28 Mar 2027 · 10:00 – 12:30</text>
+      <text x="18" y="258" font-family="Inter, sans-serif" font-size="12" font-weight="500" fill="#4B5563">📍  Silver Community Centre</text>
+
+      <rect x="16" y="272" width="340" height="28" rx="6" fill="#EDF3F0"/>
+      <text x="26" y="290" font-family="Inter, sans-serif" font-size="11.5" font-weight="700" fill="#153B30">🌐 Online 12 places    👥 Community 8 places</text>
+
+      <text x="18" y="318" font-family="Inter, sans-serif" font-size="11" fill="#4B5563">Vision tests, cataract screening, and mobility</text>
+      <text x="18" y="334" font-family="Inter, sans-serif" font-size="11" fill="#4B5563">assessment for seniors aged 60 and above.</text>
+
+      <rect x="16" y="342" width="340" height="42" rx="8" fill="#FAF8F4" stroke="#E2DEC9"/>
+      <text x="26" y="360" font-family="Inter, sans-serif" font-size="10.5" font-weight="700" fill="#1F6F50">✓ Services Included:</text>
+      <text x="26" y="375" font-family="Inter, sans-serif" font-size="10" fill="#6B7280">• Vision clarity, cataract check, fall prevention</text>
+
+      <!-- Primary Action CTA Button -->
+      <rect x="16" y="428" width="340" height="40" rx="10" fill="#1F6F50"/>
+      <text x="186" y="453" text-anchor="middle" font-family="Inter, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">Book Event as Guest  →</text>
+    </g>
+
+    <!-- Bottom Timezone & Help Bar -->
+    <rect x="248" y="780" width="1164" height="34" rx="8" fill="#FAF8F4" stroke="#E2DEC9"/>
+    <text x="264" y="802" font-family="Inter, sans-serif" font-size="11.5" font-weight="500" fill="#6B7280">🕒  All times are shown in your browser timezone: Asia/Kuala_Lumpur (GMT+8) · No account needed to book any session as guest</text>
+
+    <!-- Alternative Search Suggestions Footer Ribbon -->
+    <rect x="248" y="824" width="1164" height="58" rx="12" fill="#F3EFE6" stroke="#E0DDD4"/>
+    <text x="268" y="852" font-family="Inter, sans-serif" font-size="12" font-weight="700" fill="#153B30">💡 Didn't find your session? Try searching for:</text>
+
+    <rect x="526" y="837" width="124" height="28" rx="14" fill="#FFFFFF" stroke="#D8D4C8"/>
+    <text x="588" y="855" text-anchor="middle" font-family="Inter, sans-serif" font-size="11" font-weight="600" fill="#1F2937">Healthy Cooking</text>
+
+    <rect x="660" y="837" width="128" height="28" rx="14" fill="#FFFFFF" stroke="#D8D4C8"/>
+    <text x="724" y="855" text-anchor="middle" font-family="Inter, sans-serif" font-size="11" font-weight="600" fill="#1F2937">Mental Wellness</text>
+
+    <rect x="798" y="837" width="120" height="28" rx="14" fill="#FFFFFF" stroke="#D8D4C8"/>
+    <text x="858" y="855" text-anchor="middle" font-family="Inter, sans-serif" font-size="11" font-weight="600" fill="#1F2937">Family Health</text>
+
+    <text x="1392" y="858" text-anchor="end" font-family="Inter, sans-serif" font-size="12" font-weight="700" fill="#1F6F50">View all 6 events directory  →</text>
+    
+</svg>

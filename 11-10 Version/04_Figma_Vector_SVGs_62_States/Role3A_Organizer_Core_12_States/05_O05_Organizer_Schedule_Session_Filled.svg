@@ -1,0 +1,226 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 900" width="1440" height="900">
+  <rect x="0" y="0" width="1440" height="900" fill="#FAF8F4"/>
+  <rect x="0" y="0" width="220" height="900" fill="#153B30"/>
+  
+    <g transform="translate(20,20) scale(0.95)">
+      <circle cx="22" cy="22" r="22" fill="#F3EFE6"/>
+      <path d="M22 36 C10 32, 6 20, 12 11 C16 14, 20 22, 22 36 Z" fill="#D59F67"/>
+      <path d="M22 36 C34 32, 38 20, 32 11 C28 14, 24 22, 22 36 Z" fill="#1F6F50"/>
+      <path d="M22 33 C15 25, 14 15, 22 9 C30 15, 29 25, 22 33 Z" fill="#88B69E"/>
+      <circle cx="22" cy="18" r="4.2" fill="#DFB982"/>
+    </g>
+    
+  <text x="72" y="38" font-family="Inter, sans-serif" font-size="15" font-weight="800" fill="#FAF8F4" letter-spacing="0.5">ROSE · PULSE</text>
+  <text x="72" y="54" font-family="Inter, sans-serif" font-size="10" font-weight="500" fill="#88B69E">Community Health Portal</text>
+  <rect x="16" y="88" width="188" height="40" rx="10" fill="#DFB982"/><text x="32" y="113" font-family="Inter, sans-serif" font-size="13.5" font-weight="700" fill="#18241E">＋  Create Event</text>
+  <text x="32" y="161" font-family="Inter, sans-serif" font-size="13.5" font-weight="500" fill="#D5E3DC">⊞  Manage Registrations</text>
+  <text x="32" y="209" font-family="Inter, sans-serif" font-size="13.5" font-weight="500" fill="#D5E3DC">📡  Event Check-In</text>
+  <text x="32" y="257" font-family="Inter, sans-serif" font-size="13.5" font-weight="500" fill="#D5E3DC">📊  Event Summary</text>
+  <line x1="20" y1="756" x2="200" y2="756" stroke="#265345" stroke-width="1"/>
+  <text x="24" y="782" font-family="Inter, sans-serif" font-size="11.5" font-weight="500" fill="#9AB8AC">A place for everyone.</text>
+  <text x="24" y="800" font-family="Inter, sans-serif" font-size="11.5" font-weight="500" fill="#9AB8AC">A community for you.</text>
+  <text x="24" y="836" font-family="Inter, sans-serif" font-size="12.5" font-weight="500" fill="#D5E3DC">❓  Help &amp; information</text>
+  <text x="24" y="868" font-family="Inter, sans-serif" font-size="12.5" font-weight="600" fill="#DFB982">↪  Sign out</text>
+
+  <g transform="translate(248,12) scale(0.92)">
+      <circle cx="22" cy="22" r="22" fill="#F3EFE6"/>
+      <path d="M22 36 C10 32, 6 20, 12 11 C16 14, 20 22, 22 36 Z" fill="#D59F67"/>
+      <path d="M22 36 C34 32, 38 20, 32 11 C28 14, 24 22, 22 36 Z" fill="#1F6F50"/>
+      <path d="M22 33 C15 25, 14 15, 22 9 C30 15, 29 25, 22 33 Z" fill="#88B69E"/>
+      <circle cx="22" cy="18" r="4.2" fill="#DFB982"/>
+    </g>
+    
+  <text x="298" y="32" font-family="Inter, sans-serif" font-size="21" font-weight="800" fill="#153B30" letter-spacing="0.4">ROSE · PULSE</text>
+  <text x="298" y="48" font-family="Inter, sans-serif" font-size="11" font-weight="500" fill="#55625A">Community Health · People · Opportunity</text>
+  <line x1="518" y1="14" x2="518" y2="52" stroke="#D8D4C8" stroke-width="1.2"/>
+  <text x="534" y="30" font-family="Inter, sans-serif" font-size="13.5" font-weight="700" fill="#1F2937">Connected communities. Healthier lives.</text>
+  <text x="534" y="47" font-family="Inter, sans-serif" font-size="11" font-weight="500" fill="#6B7280">Events · Screening · Support · Together</text>
+
+  <g transform="translate(835, 14)">
+    <circle cx="16" cy="18" r="14" fill="#EDF3F0"/>
+    <text x="16" y="23" text-anchor="middle" font-family="Inter, sans-serif" font-size="13">🧘</text>
+    <text x="36" y="16" font-family="Inter, sans-serif" font-size="11.5" font-weight="700" fill="#1F2937">Accessible</text>
+    <text x="36" y="30" font-family="Inter, sans-serif" font-size="10" fill="#6B7280">Simple for everyone</text>
+    <circle cx="156" cy="18" r="14" fill="#FDF2EE"/>
+    <text x="156" y="23" text-anchor="middle" font-family="Inter, sans-serif" font-size="13">❤️</text>
+    <text x="176" y="16" font-family="Inter, sans-serif" font-size="11.5" font-weight="700" fill="#1F2937">Inclusive</text>
+    <text x="176" y="30" font-family="Inter, sans-serif" font-size="10" fill="#6B7280">All communities</text>
+    <circle cx="292" cy="18" r="14" fill="#F6EFE2"/>
+    <text x="292" y="23" text-anchor="middle" font-family="Inter, sans-serif" font-size="13">⚡</text>
+    <text x="312" y="16" font-family="Inter, sans-serif" font-size="11.5" font-weight="700" fill="#1F2937">Offline Ready</text>
+    <text x="312" y="30" font-family="Inter, sans-serif" font-size="10" fill="#6B7280">Works anywhere</text>
+    <circle cx="436" cy="18" r="14" fill="#EDF3F0"/>
+    <text x="436" y="23" text-anchor="middle" font-family="Inter, sans-serif" font-size="13">🔒</text>
+    <text x="456" y="16" font-family="Inter, sans-serif" font-size="11.5" font-weight="700" fill="#1F2937">Secure</text>
+    <text x="456" y="30" font-family="Inter, sans-serif" font-size="10" fill="#6B7280">Your data protected</text>
+  </g>
+
+  <rect x="248" y="64" width="396" height="38" rx="19" fill="#FFFFFF" stroke="#E2DEC9" stroke-width="1.2"/>
+  <text x="268" y="88" font-family="Inter, sans-serif" font-size="12.5" font-weight="500" fill="#6B7280">🔍  Search events...</text>
+  <circle cx="624" cy="83" r="13" fill="#EDF3F0"/>
+  <text x="624" y="87" text-anchor="middle" font-family="Inter, sans-serif" font-size="12" font-weight="700" fill="#1F6F50">→</text>
+
+  <rect x="656.0" y="68" width="42.0" height="32" rx="16" fill="#1F6F50"/><text x="677.0" y="89" text-anchor="middle" font-family="Inter, sans-serif" font-size="11.5" font-weight="700" fill="#FFFFFF">All</text><rect x="704.0" y="68" width="58.8" height="32" rx="16" fill="#F0EDE6" stroke="#E0DDD4" stroke-width="1"/><text x="733.4" y="89" text-anchor="middle" font-family="Inter, sans-serif" font-size="11.5" font-weight="600" fill="#374151">Health</text><rect x="768.8" y="68" width="79.2" height="32" rx="16" fill="#F0EDE6" stroke="#E0DDD4" stroke-width="1"/><text x="808.4" y="89" text-anchor="middle" font-family="Inter, sans-serif" font-size="11.5" font-weight="600" fill="#374151">Screening</text><rect x="854.0" y="68" width="72.4" height="32" rx="16" fill="#F0EDE6" stroke="#E0DDD4" stroke-width="1"/><text x="890.2" y="89" text-anchor="middle" font-family="Inter, sans-serif" font-size="11.5" font-weight="600" fill="#374151">Workshop</text><rect x="932.4" y="68" width="45.2" height="32" rx="16" fill="#F0EDE6" stroke="#E0DDD4" stroke-width="1"/><text x="955.0" y="89" text-anchor="middle" font-family="Inter, sans-serif" font-size="11.5" font-weight="600" fill="#374151">Talk</text><rect x="983.6" y="68" width="58.8" height="32" rx="16" fill="#F0EDE6" stroke="#E0DDD4" stroke-width="1"/><text x="1013.0" y="89" text-anchor="middle" font-family="Inter, sans-serif" font-size="11.5" font-weight="600" fill="#374151">Family</text>
+
+  
+        <rect x="1146" y="66" width="96" height="36" rx="18" fill="#FFFFFF" stroke="#1F6F50" stroke-width="1.5"/>
+        <rect x="1149" y="69" width="47" height="30" rx="15" fill="#1F6F50"/>
+        <text x="1172" y="89" text-anchor="middle" font-family="Inter, sans-serif" font-size="11.5" font-weight="800" fill="#FFFFFF">EN</text>
+        <text x="1217" y="89" text-anchor="middle" font-family="Inter, sans-serif" font-size="11.5" font-weight="600" fill="#6B7280">BM</text>
+        
+
+  <rect x="1250" y="66" width="164" height="36" rx="18" fill="#EDF3F0" stroke="#88B69E" stroke-width="1.2"/><circle cx="1270" cy="84" r="11" fill="#1F6F50"/><text x="1270" y="88" text-anchor="middle" font-family="Inter, sans-serif" font-size="10" font-weight="700" fill="#FFFFFF">RP</text><text x="1287" y="88" font-family="Inter, sans-serif" font-size="11" font-weight="700" fill="#153B30">Welcome, Organizer</text>
+
+  
+    <rect x="248" y="118" width="656" height="748" rx="18" fill="#FFFFFF" stroke="#E6E2D8" stroke-width="1.2"/>
+    <text x="276" y="152" font-family="Inter, sans-serif" font-size="22" font-weight="800" fill="#1F2937">Create Event</text>
+    <text x="276" y="172" font-family="Inter, sans-serif" font-size="12.5" fill="#6B7280">Publish a community health event with concise details and photo thumbnails.</text>
+    
+    <text x="276" y="238" font-family="Inter, sans-serif" font-size="12.5" font-weight="700" fill="#374151">Event photos <tspan font-weight="400" fill="#6B7280">(PNG, JPG, WEBP up to 5 MB · Up to 3 photos)</tspan></text>
+    
+    <defs>
+      <clipPath id="cardClip_ce1_276_248">
+        <rect x="276" y="248" width="156" height="96" rx="12"/>
+      </clipPath>
+    </defs>
+    <g clip-path="url(#cardClip_ce1_276_248)">
+      
+        <rect x="276" y="248" width="156" height="96" fill="#E9E4D8"/>
+        <rect x="316" y="260" width="95" height="85" rx="4" fill="#F7F5F0" stroke="#D5CFC2" stroke-width="2"/>
+        <line x1="363" y1="260" x2="363" y2="345" stroke="#D5CFC2" stroke-width="2"/>
+        <ellipse cx="596" cy="303" rx="24" ry="32" fill="#2E6F54" opacity="0.85"/>
+        <rect x="586" y="330" width="20" height="24" rx="3" fill="#C68B59"/>
+        <rect x="336" y="354" width="56" height="40" fill="#D5B895"/>
+        <circle cx="391" cy="302" r="18" fill="#E0B596"/>
+        <path d="M373 296 Q391 278 409 296" fill="#D6D6D6"/>
+        <path d="M361 360 Q391 322 421 360 Z" fill="#7D8C7D"/>
+        <circle cx="464" cy="296" r="17" fill="#EAC0A2"/>
+        <path d="M447 290 Q464 272 481 290" fill="#262626"/>
+        <path d="M434 360 Q464 318 494 360 Z" fill="#1F6F50"/>
+        <rect x="426" y="340" width="26" height="16" rx="3" fill="#374151"/>
+        <circle cx="534" cy="302" r="18" fill="#E5BA9B"/>
+        <path d="M506 360 Q534 322 564 360 Z" fill="#F4F1EA"/>
+        
+      <rect x="288" y="310" width="66" height="24" rx="12" fill="#FFFFFF" stroke="#E2DEC9" stroke-width="1"/>
+      <circle cx="300" cy="322" r="4" fill="#1F6F50"/>
+      <text x="309" y="326" font-family="Inter, sans-serif" font-size="11" font-weight="700" fill="#1F6F50">Cover</text>
+      <rect x="360" y="310" width="78" height="24" rx="12" fill="#EDF3F0" opacity="0.95"/>
+      <text x="399" y="326" text-anchor="middle" font-family="Inter, sans-serif" font-size="10.5" font-weight="600" fill="#153B30">Photo 1</text>
+    </g>
+    
+    
+    <defs>
+      <clipPath id="cardClip_ce2_446_248">
+        <rect x="446" y="248" width="156" height="96" rx="12"/>
+      </clipPath>
+    </defs>
+    <g clip-path="url(#cardClip_ce2_446_248)">
+      
+        <rect x="446" y="248" width="156" height="96" fill="#EFECE4"/>
+        <line x1="476" y1="280" x2="576" y2="280" stroke="#C2A886" stroke-width="4"/>
+        <line x1="676" y1="280" x2="776" y2="280" stroke="#C2A886" stroke-width="4"/>
+        <circle cx="506" cy="270" r="8" fill="#4A7C59"/>
+        <circle cx="726" cy="270" r="9" fill="#5B8C69"/>
+        <circle cx="558" cy="298" r="16" fill="#E8BE9E"/>
+        <path d="M532 356 Q558 318 584 356 Z" fill="#1F6F50"/>
+        <circle cx="626" cy="310" r="13" fill="#ECC4A6"/>
+        <path d="M606 356 Q626 326 646 356 Z" fill="#2D7A5B"/>
+        <circle cx="694" cy="294" r="17" fill="#E2B494"/>
+        <path d="M666 356 Q694 316 722 356 Z" fill="#1F6F50"/>
+        <rect x="466" y="350" width="116" height="44" fill="#F8F6F1"/>
+        <ellipse cx="591" cy="354" rx="26" ry="10" fill="#52946B"/>
+        <ellipse cx="656" cy="356" rx="22" ry="9" fill="#E07A47"/>
+        <circle cx="621" cy="360" r="6" fill="#E2A83B"/>
+        
+      <rect x="458" y="310" width="66" height="24" rx="12" fill="#FFFFFF" stroke="#E2DEC9" stroke-width="1"/>
+      <circle cx="470" cy="322" r="4" fill="#1F6F50"/>
+      <text x="479" y="326" font-family="Inter, sans-serif" font-size="11" font-weight="700" fill="#1F6F50">Gallery</text>
+      <rect x="530" y="310" width="78" height="24" rx="12" fill="#EDF3F0" opacity="0.95"/>
+      <text x="569" y="326" text-anchor="middle" font-family="Inter, sans-serif" font-size="10.5" font-weight="600" fill="#153B30">Photo 2</text>
+    </g>
+    
+    <rect x="616" y="248" width="136" height="96" rx="12" fill="#FAF8F4" stroke="#D59F67" stroke-width="1.5" stroke-dasharray="5,4"/>
+    <text x="684" y="292" text-anchor="middle" font-family="Inter, sans-serif" font-size="16" font-weight="700" fill="#1F6F50">＋ Add</text>
+    <text x="684" y="312" text-anchor="middle" font-family="Inter, sans-serif" font-size="11" fill="#6B7280">Upload photo</text>
+
+    <text x="276" y="374" font-family="Inter, sans-serif" font-size="12.5" font-weight="600" fill="#374151">Event title <tspan fill="#D89561">*</tspan></text>
+    <rect x="276" y="382" width="600" height="44" rx="10" fill="#FAF8F4" stroke="#E2DEC9" stroke-width="1.2"/>
+    <text x="294" y="409" font-family="Inter, sans-serif" font-size="14" font-weight="600" fill="#1F2937">Community Health Screening</text>
+
+    <text x="276" y="452" font-family="Inter, sans-serif" font-size="12.5" font-weight="600" fill="#374151">Overview <tspan fill="#D89561">*</tspan> <tspan font-weight="400" fill="#6B7280">(1 short sentence for easy reading)</tspan></text>
+    <rect x="276" y="460" width="600" height="54" rx="10" fill="#FAF8F4" stroke="#E2DEC9" stroke-width="1.2"/>
+    <text x="294" y="492" font-family="Inter, sans-serif" font-size="13.5" font-weight="500" fill="#1F2937">Free health screening for local families.</text>
+
+    <text x="276" y="542" font-family="Inter, sans-serif" font-size="12.5" font-weight="600" fill="#374151">Location <tspan fill="#D89561">*</tspan></text>
+    <rect x="276" y="550" width="288" height="44" rx="10" fill="#FAF8F4" stroke="#E2DEC9" stroke-width="1.2"/>
+    <text x="294" y="577" font-family="Inter, sans-serif" font-size="13.5" font-weight="500" fill="#1F2937">NU Community Centre</text>
+
+    <text x="588" y="542" font-family="Inter, sans-serif" font-size="12.5" font-weight="600" fill="#374151">Start date and time <tspan fill="#D89561">*</tspan></text>
+    <rect x="588" y="550" width="288" height="44" rx="10" fill="#FAF8F4" stroke="#E2DEC9" stroke-width="1.2"/>
+    <text x="606" y="577" font-family="Inter, sans-serif" font-size="13.5" font-weight="500" fill="#1F2937">15/03/2027  10:00</text>
+    <text x="850" y="577" font-family="Inter, sans-serif" font-size="13" fill="#6B7280">📅</text>
+
+    <text x="276" y="624" font-family="Inter, sans-serif" font-size="12.5" font-weight="600" fill="#374151">Capacity &amp; Channel Quotas <tspan fill="#D89561">*</tspan></text>
+    <rect x="276" y="632" width="186" height="44" rx="10" fill="#FAF8F4" stroke="#E2DEC9"/>
+    <text x="292" y="659" font-family="Inter, sans-serif" font-size="13" font-weight="600" fill="#1F2937">Total Places: 30</text>
+    <rect x="482" y="632" width="186" height="44" rx="10" fill="#EDF3F0" stroke="#88B69E"/>
+    <text x="498" y="659" font-family="Inter, sans-serif" font-size="13" font-weight="700" fill="#153B30">🌐 Online Places: 20</text>
+    <rect x="688" y="632" width="188" height="44" rx="10" fill="#F6EFE2" stroke="#D59F67"/>
+    <text x="704" y="659" font-family="Inter, sans-serif" font-size="13" font-weight="700" fill="#8A5A10">👥 Community Places: 10</text>
+
+    <rect x="276" y="704" width="600" height="50" rx="12" fill="#1F6F50"/>
+    <text x="576" y="735" text-anchor="middle" font-family="Inter, sans-serif" font-size="15.5" font-weight="700" fill="#FFFFFF">Create event</text>
+
+    <rect x="926" y="118" width="486" height="748" rx="18" fill="#FFFFFF" stroke="#E6E2D8" stroke-width="1.2"/>
+    <text x="954" y="152" font-family="Inter, sans-serif" font-size="16" font-weight="800" fill="#1F2937">Live Event Card Preview</text>
+    <text x="954" y="172" font-family="Inter, sans-serif" font-size="12" fill="#6B7280">How your event card appears to community members:</text>
+    
+    <g>
+      <rect x="980" y="198" width="378" height="326" rx="16" fill="#FFFFFF" stroke="#1F6F50" stroke-width="2.5"/>
+      
+    <defs>
+      <clipPath id="cardClip_prevCard_990_208">
+        <rect x="990" y="208" width="358" height="136" rx="12"/>
+      </clipPath>
+    </defs>
+    <g clip-path="url(#cardClip_prevCard_990_208)">
+      
+        <rect x="990" y="208" width="358" height="136" fill="#E9E4D8"/>
+        <rect x="1030" y="220" width="95" height="85" rx="4" fill="#F7F5F0" stroke="#D5CFC2" stroke-width="2"/>
+        <line x1="1077" y1="220" x2="1077" y2="305" stroke="#D5CFC2" stroke-width="2"/>
+        <ellipse cx="1310" cy="263" rx="24" ry="32" fill="#2E6F54" opacity="0.85"/>
+        <rect x="1300" y="290" width="20" height="24" rx="3" fill="#C68B59"/>
+        <rect x="1050" y="314" width="258" height="40" fill="#D5B895"/>
+        <circle cx="1105" cy="262" r="18" fill="#E0B596"/>
+        <path d="M1087 256 Q1105 238 1123 256" fill="#D6D6D6"/>
+        <path d="M1075 320 Q1105 282 1135 320 Z" fill="#7D8C7D"/>
+        <circle cx="1178" cy="256" r="17" fill="#EAC0A2"/>
+        <path d="M1161 250 Q1178 232 1195 250" fill="#262626"/>
+        <path d="M1148 320 Q1178 278 1208 320 Z" fill="#1F6F50"/>
+        <rect x="1140" y="300" width="26" height="16" rx="3" fill="#374151"/>
+        <circle cx="1248" cy="262" r="18" fill="#E5BA9B"/>
+        <path d="M1220 320 Q1248 282 1278 320 Z" fill="#F4F1EA"/>
+        
+      <rect x="1002" y="310" width="66" height="24" rx="12" fill="#FFFFFF" stroke="#E2DEC9" stroke-width="1"/>
+      <circle cx="1014" cy="322" r="4" fill="#1F6F50"/>
+      <text x="1023" y="326" font-family="Inter, sans-serif" font-size="11" font-weight="700" fill="#1F6F50">Active</text>
+      <rect x="1074" y="310" width="78" height="24" rx="12" fill="#EDF3F0" opacity="0.95"/>
+      <text x="1113" y="326" text-anchor="middle" font-family="Inter, sans-serif" font-size="10.5" font-weight="600" fill="#153B30">Screening</text>
+    </g>
+    
+      <text x="998" y="368" font-family="Inter, sans-serif" font-size="15.5" font-weight="700" fill="#1F2937">Community Health Screening</text>
+      <text x="998" y="392" font-family="Inter, sans-serif" font-size="12.5" font-weight="500" fill="#4B5563">📅  15 Mar 2027 · 10:00 – 12:00</text>
+      <text x="998" y="414" font-family="Inter, sans-serif" font-size="12.5" font-weight="500" fill="#4B5563">📍  NU Community Centre</text>
+      <text x="998" y="437" font-family="Inter, sans-serif" font-size="12" font-weight="600" fill="#1F6F50">🌐 Online 20     👥 Offline 10</text>
+      <rect x="996" y="476" width="346" height="36" rx="10" fill="#1F6F50"/>
+      <text x="1169" y="499" text-anchor="middle" font-family="Inter, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">View details  →</text>
+    </g>
+    
+
+    <rect x="954" y="550" width="430" height="148" rx="12" fill="#FAF8F4" stroke="#E2DEC9"/>
+    <text x="972" y="576" font-family="Inter, sans-serif" font-size="12.5" font-weight="700" fill="#153B30">✓  Clear &amp; Accessible Event Card</text>
+    <text x="972" y="598" font-family="Inter, sans-serif" font-size="11.5" fill="#4B5563">• Displays cover photo, title, date/time, venue &amp; available places</text>
+    <text x="972" y="618" font-family="Inter, sans-serif" font-size="11.5" fill="#4B5563">• Concise 1-sentence overview for easy reading on any screen</text>
+    <text x="972" y="638" font-family="Inter, sans-serif" font-size="11.5" fill="#4B5563">• Supports both English (EN) and Bahasa Melayu (BM) switching</text>
+    
+</svg>

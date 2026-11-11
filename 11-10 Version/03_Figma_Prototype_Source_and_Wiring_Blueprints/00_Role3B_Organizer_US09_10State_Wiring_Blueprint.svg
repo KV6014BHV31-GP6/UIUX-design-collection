@@ -1,0 +1,111 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1800 1080" width="1800" height="1080">
+  <rect x="0" y="0" width="1800" height="1080" fill="#FAF8F4"/>
+  <rect x="0" y="0" width="1800" height="96" fill="#153B30"/>
+  <text x="40" y="44" font-family="Inter, sans-serif" font-size="24" font-weight="800" fill="#FFFFFF">Role 3 · Event-Day Check-In &amp; Walk-In Desk (F-01~F-10) — Complete 10-State User Journey Blueprint</text>
+  <text x="40" y="72" font-family="Inter, sans-serif" font-size="13.5" font-weight="600" fill="#DFB982">Shows F-01 ➔ F-10 transitions (Participant List, Search &amp; Check In, New Walk-In Guest Registration, Already Checked-In Notice &amp; Final Summary)</text>
+  <line x1="168" y1="228" x2="508" y2="228" stroke="#1F6F50" stroke-width="2.4" stroke-dasharray="6,4"/><circle cx="508" cy="228" r="5" fill="#D59F67"/><rect x="264" y="216" width="148" height="22" rx="11" fill="#153B30" stroke="#DFB982" stroke-width="1.2"/><text x="338" y="231" text-anchor="middle" font-family="Inter, sans-serif" font-size="10" font-weight="800" fill="#DFB982">F-01 ➔ F-02: View List</text><line x1="508" y1="228" x2="848" y2="228" stroke="#1F6F50" stroke-width="2.4" stroke-dasharray="6,4"/><circle cx="848" cy="228" r="5" fill="#D59F67"/><rect x="604" y="216" width="148" height="22" rx="11" fill="#153B30" stroke="#DFB982" stroke-width="1.2"/><text x="678" y="231" text-anchor="middle" font-family="Inter, sans-serif" font-size="10" font-weight="800" fill="#DFB982">F-02 ➔ F-03: Search Name</text><line x1="848" y1="228" x2="1188" y2="228" stroke="#1F6F50" stroke-width="2.4" stroke-dasharray="6,4"/><circle cx="1188" cy="228" r="5" fill="#D59F67"/><rect x="944" y="216" width="148" height="22" rx="11" fill="#153B30" stroke="#DFB982" stroke-width="1.2"/><text x="1018" y="231" text-anchor="middle" font-family="Inter, sans-serif" font-size="10" font-weight="800" fill="#DFB982">F-03 ➔ F-04: Check In</text><line x1="1188" y1="228" x2="1528" y2="228" stroke="#1F6F50" stroke-width="2.4" stroke-dasharray="6,4"/><circle cx="1528" cy="228" r="5" fill="#D59F67"/><rect x="1284" y="216" width="148" height="22" rx="11" fill="#153B30" stroke="#DFB982" stroke-width="1.2"/><text x="1358" y="231" text-anchor="middle" font-family="Inter, sans-serif" font-size="10" font-weight="800" fill="#DFB982">F-04 ➔ F-05: + Walk-In</text><line x1="1528" y1="228" x2="168" y2="608" stroke="#1F6F50" stroke-width="2.4" stroke-dasharray="6,4"/><circle cx="168" cy="608" r="5" fill="#D59F67"/><rect x="774" y="406" width="148" height="22" rx="11" fill="#153B30" stroke="#DFB982" stroke-width="1.2"/><text x="848" y="421" text-anchor="middle" font-family="Inter, sans-serif" font-size="10" font-weight="800" fill="#DFB982">F-05 ➔ F-06: Fill 6 Fields</text><line x1="168" y1="608" x2="508" y2="608" stroke="#1F6F50" stroke-width="2.4" stroke-dasharray="6,4"/><circle cx="508" cy="608" r="5" fill="#D59F67"/><rect x="264" y="596" width="148" height="22" rx="11" fill="#153B30" stroke="#DFB982" stroke-width="1.2"/><text x="338" y="611" text-anchor="middle" font-family="Inter, sans-serif" font-size="10" font-weight="800" fill="#DFB982">F-06 ➔ F-07: Register</text><line x1="508" y1="608" x2="848" y2="608" stroke="#1F6F50" stroke-width="2.4" stroke-dasharray="6,4"/><circle cx="848" cy="608" r="5" fill="#D59F67"/><rect x="604" y="596" width="148" height="22" rx="11" fill="#153B30" stroke="#DFB982" stroke-width="1.2"/><text x="678" y="611" text-anchor="middle" font-family="Inter, sans-serif" font-size="10" font-weight="800" fill="#DFB982">F-07 ➔ F-08: Check Dup</text><line x1="848" y1="608" x2="1188" y2="608" stroke="#1F6F50" stroke-width="2.4" stroke-dasharray="6,4"/><circle cx="1188" cy="608" r="5" fill="#D59F67"/><rect x="944" y="596" width="148" height="22" rx="11" fill="#153B30" stroke="#DFB982" stroke-width="1.2"/><text x="1018" y="611" text-anchor="middle" font-family="Inter, sans-serif" font-size="10" font-weight="800" fill="#DFB982">F-08 ➔ F-09: Save All</text><line x1="1188" y1="608" x2="1528" y2="608" stroke="#1F6F50" stroke-width="2.4" stroke-dasharray="6,4"/><circle cx="1528" cy="608" r="5" fill="#D59F67"/><rect x="1284" y="596" width="148" height="22" rx="11" fill="#153B30" stroke="#DFB982" stroke-width="1.2"/><text x="1358" y="611" text-anchor="middle" font-family="Inter, sans-serif" font-size="10" font-weight="800" fill="#DFB982">F-09 ➔ F-10: Summary</text>
+  
+        <g>
+          <rect x="50" y="180" width="236" height="96" rx="14" fill="#FFFFFF" stroke="#0D9488" stroke-width="2.2"/>
+          <rect x="50" y="180" width="236" height="32" rx="14" fill="#1E4D3F"/>
+          <rect x="60" y="186" width="54" height="20" rx="6" fill="#CCFBF1"/>
+          <text x="87" y="200" text-anchor="middle" font-family="Inter, sans-serif" font-size="11" font-weight="800" fill="#134E4A">F-01</text>
+          <text x="124" y="200" font-family="Inter, sans-serif" font-size="11" font-weight="700" fill="#FFFFFF">Participant List Ready</text>
+          <text x="62" y="234" font-family="Inter, sans-serif" font-size="12" font-weight="800" fill="#1F2937">Participant List Ready</text>
+          <text x="62" y="254" font-family="Inter, sans-serif" font-size="10.5" font-weight="600" fill="#4B5563">17 Checked In · Offline Ready</text>
+        </g>
+        
+        <g>
+          <rect x="390" y="180" width="236" height="96" rx="14" fill="#FFFFFF" stroke="#0D9488" stroke-width="2.2"/>
+          <rect x="390" y="180" width="236" height="32" rx="14" fill="#1E4D3F"/>
+          <rect x="400" y="186" width="54" height="20" rx="6" fill="#CCFBF1"/>
+          <text x="427" y="200" text-anchor="middle" font-family="Inter, sans-serif" font-size="11" font-weight="800" fill="#134E4A">F-02</text>
+          <text x="464" y="200" font-family="Inter, sans-serif" font-size="11" font-weight="700" fill="#FFFFFF">Search &amp; Check In List</text>
+          <text x="402" y="234" font-family="Inter, sans-serif" font-size="12" font-weight="800" fill="#1F2937">Search &amp; Check In List</text>
+          <text x="402" y="254" font-family="Inter, sans-serif" font-size="10.5" font-weight="600" fill="#4B5563">Click Check In Now</text>
+        </g>
+        
+        <g>
+          <rect x="730" y="180" width="236" height="96" rx="14" fill="#FFFFFF" stroke="#0D9488" stroke-width="2.2"/>
+          <rect x="730" y="180" width="236" height="32" rx="14" fill="#1E4D3F"/>
+          <rect x="740" y="186" width="54" height="20" rx="6" fill="#CCFBF1"/>
+          <text x="767" y="200" text-anchor="middle" font-family="Inter, sans-serif" font-size="11" font-weight="800" fill="#134E4A">F-03</text>
+          <text x="804" y="200" font-family="Inter, sans-serif" font-size="11" font-weight="700" fill="#FFFFFF">Search Result (Siti)</text>
+          <text x="742" y="234" font-family="Inter, sans-serif" font-size="12" font-weight="800" fill="#1F2937">Search Result (Siti)</text>
+          <text x="742" y="254" font-family="Inter, sans-serif" font-size="10.5" font-weight="600" fill="#4B5563">Filtered: Siti Aminah</text>
+        </g>
+        
+        <g>
+          <rect x="1070" y="180" width="236" height="96" rx="14" fill="#FFFFFF" stroke="#0D9488" stroke-width="2.2"/>
+          <rect x="1070" y="180" width="236" height="32" rx="14" fill="#1E4D3F"/>
+          <rect x="1080" y="186" width="54" height="20" rx="6" fill="#CCFBF1"/>
+          <text x="1107" y="200" text-anchor="middle" font-family="Inter, sans-serif" font-size="11" font-weight="800" fill="#134E4A">F-04</text>
+          <text x="1144" y="200" font-family="Inter, sans-serif" font-size="11" font-weight="700" fill="#FFFFFF">Siti Aminah Checked In</text>
+          <text x="1082" y="234" font-family="Inter, sans-serif" font-size="12" font-weight="800" fill="#1F2937">Siti Aminah Checked In</text>
+          <text x="1082" y="254" font-family="Inter, sans-serif" font-size="10.5" font-weight="600" fill="#4B5563">Checked In at 09:54 AM</text>
+        </g>
+        
+        <g>
+          <rect x="1410" y="180" width="236" height="96" rx="14" fill="#FFFFFF" stroke="#0D9488" stroke-width="2.2"/>
+          <rect x="1410" y="180" width="236" height="32" rx="14" fill="#1E4D3F"/>
+          <rect x="1420" y="186" width="54" height="20" rx="6" fill="#CCFBF1"/>
+          <text x="1447" y="200" text-anchor="middle" font-family="Inter, sans-serif" font-size="11" font-weight="800" fill="#134E4A">F-05</text>
+          <text x="1484" y="200" font-family="Inter, sans-serif" font-size="11" font-weight="700" fill="#FFFFFF">New Walk-In Form (Empt</text>
+          <text x="1422" y="234" font-family="Inter, sans-serif" font-size="12" font-weight="800" fill="#1F2937">New Walk-In Form (Empty)</text>
+          <text x="1422" y="254" font-family="Inter, sans-serif" font-size="10.5" font-weight="600" fill="#4B5563">6-Field Walk-In Guest Modal</text>
+        </g>
+        
+        <g>
+          <rect x="50" y="560" width="236" height="96" rx="14" fill="#FFFFFF" stroke="#0D9488" stroke-width="2.2"/>
+          <rect x="50" y="560" width="236" height="32" rx="14" fill="#1E4D3F"/>
+          <rect x="60" y="566" width="54" height="20" rx="6" fill="#CCFBF1"/>
+          <text x="87" y="580" text-anchor="middle" font-family="Inter, sans-serif" font-size="11" font-weight="800" fill="#134E4A">F-06</text>
+          <text x="124" y="580" font-family="Inter, sans-serif" font-size="11" font-weight="700" fill="#FFFFFF">Walk-In Form (Complete</text>
+          <text x="62" y="614" font-family="Inter, sans-serif" font-size="12" font-weight="800" fill="#1F2937">Walk-In Form (Completed)</text>
+          <text x="62" y="634" font-family="Inter, sans-serif" font-size="10.5" font-weight="600" fill="#4B5563">Noraini Hassan · 10 Places</text>
+        </g>
+        
+        <g>
+          <rect x="390" y="560" width="236" height="96" rx="14" fill="#FFFFFF" stroke="#0D9488" stroke-width="2.2"/>
+          <rect x="390" y="560" width="236" height="32" rx="14" fill="#1E4D3F"/>
+          <rect x="400" y="566" width="54" height="20" rx="6" fill="#CCFBF1"/>
+          <text x="427" y="580" text-anchor="middle" font-family="Inter, sans-serif" font-size="11" font-weight="800" fill="#134E4A">F-07</text>
+          <text x="464" y="580" font-family="Inter, sans-serif" font-size="11" font-weight="700" fill="#FFFFFF">Walk-In Guest Checked </text>
+          <text x="402" y="614" font-family="Inter, sans-serif" font-size="12" font-weight="800" fill="#1F2937">Walk-In Guest Checked In</text>
+          <text x="402" y="634" font-family="Inter, sans-serif" font-size="10.5" font-weight="600" fill="#4B5563">Added to Checked-In List</text>
+        </g>
+        
+        <g>
+          <rect x="730" y="560" width="236" height="96" rx="14" fill="#FFFFFF" stroke="#0D9488" stroke-width="2.2"/>
+          <rect x="730" y="560" width="236" height="32" rx="14" fill="#1E4D3F"/>
+          <rect x="740" y="566" width="54" height="20" rx="6" fill="#CCFBF1"/>
+          <text x="767" y="580" text-anchor="middle" font-family="Inter, sans-serif" font-size="11" font-weight="800" fill="#134E4A">F-08</text>
+          <text x="804" y="580" font-family="Inter, sans-serif" font-size="11" font-weight="700" fill="#FFFFFF">Already Checked-In Not</text>
+          <text x="742" y="614" font-family="Inter, sans-serif" font-size="12" font-weight="800" fill="#1F2937">Already Checked-In Notice</text>
+          <text x="742" y="634" font-family="Inter, sans-serif" font-size="10.5" font-weight="600" fill="#4B5563">Prevents Double Check-In</text>
+        </g>
+        
+        <g>
+          <rect x="1070" y="560" width="236" height="96" rx="14" fill="#FFFFFF" stroke="#0D9488" stroke-width="2.2"/>
+          <rect x="1070" y="560" width="236" height="32" rx="14" fill="#1E4D3F"/>
+          <rect x="1080" y="566" width="54" height="20" rx="6" fill="#CCFBF1"/>
+          <text x="1107" y="580" text-anchor="middle" font-family="Inter, sans-serif" font-size="11" font-weight="800" fill="#134E4A">F-09</text>
+          <text x="1144" y="580" font-family="Inter, sans-serif" font-size="11" font-weight="700" fill="#FFFFFF">All Attendance Updated</text>
+          <text x="1082" y="614" font-family="Inter, sans-serif" font-size="12" font-weight="800" fill="#1F2937">All Attendance Updated</text>
+          <text x="1082" y="634" font-family="Inter, sans-serif" font-size="10.5" font-weight="600" fill="#4B5563">All 18 Records Saved</text>
+        </g>
+        
+        <g>
+          <rect x="1410" y="560" width="236" height="96" rx="14" fill="#FFFFFF" stroke="#0D9488" stroke-width="2.2"/>
+          <rect x="1410" y="560" width="236" height="32" rx="14" fill="#1E4D3F"/>
+          <rect x="1420" y="566" width="54" height="20" rx="6" fill="#CCFBF1"/>
+          <text x="1447" y="580" text-anchor="middle" font-family="Inter, sans-serif" font-size="11" font-weight="800" fill="#134E4A">F-10</text>
+          <text x="1484" y="580" font-family="Inter, sans-serif" font-size="11" font-weight="700" fill="#FFFFFF">Final Attendance Summa</text>
+          <text x="1422" y="614" font-family="Inter, sans-serif" font-size="12" font-weight="800" fill="#1F2937">Final Attendance Summary</text>
+          <text x="1422" y="634" font-family="Inter, sans-serif" font-size="10.5" font-weight="600" fill="#4B5563">18 Checked In (87% Rate)</text>
+        </g>
+        
+  <rect x="40" y="996" width="1720" height="60" rx="12" fill="#EDF3F0" stroke="#88B69E" stroke-width="1.5"/>
+  <text x="64" y="1024" font-family="Inter, sans-serif" font-size="13" font-weight="800" fill="#153B30">📌 User-Friendly Prototype Blueprint: Role 1 (Participant &amp; Guest · 26 States) · Role 2 (Community Leader · 13 States) · Role 3 (Organizer &amp; Check-In · 22 States)</text>
+  <text x="64" y="1044" font-family="Inter, sans-serif" font-size="12" font-weight="600" fill="#1F6F50">Every connector pill explicitly labels [Source ID ➔ Target ID: User Action] for direct Figma Prototype wiring and live demonstrations.</text>
+</svg>

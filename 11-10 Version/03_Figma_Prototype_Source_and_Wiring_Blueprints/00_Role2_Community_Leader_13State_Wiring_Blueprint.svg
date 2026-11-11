@@ -1,0 +1,141 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1800 1080" width="1800" height="1080">
+  <rect x="0" y="0" width="1800" height="1080" fill="#FAF8F4"/>
+  <rect x="0" y="0" width="1800" height="96" fill="#153B30"/>
+  <text x="40" y="44" font-family="Inter, sans-serif" font-size="24" font-weight="800" fill="#FFFFFF">Role 2 · Community Leader — Complete 13-State User Journey Blueprint</text>
+  <text x="40" y="72" font-family="Inter, sans-serif" font-size="13.5" font-weight="600" fill="#DFB982">Shows L-01 ➔ L-13 transitions (Sign In, Community Events, Printable Poster, Register Residents Offline, Send to Organizer, Leader Profile)</text>
+  <line x1="168" y1="178" x2="508" y2="178" stroke="#1F6F50" stroke-width="2.4" stroke-dasharray="6,4"/><circle cx="508" cy="178" r="5" fill="#D59F67"/><rect x="264" y="166" width="148" height="22" rx="11" fill="#153B30" stroke="#DFB982" stroke-width="1.2"/><text x="338" y="181" text-anchor="middle" font-family="Inter, sans-serif" font-size="10" font-weight="800" fill="#DFB982">L-01 ➔ L-02: Fill Login</text><line x1="508" y1="178" x2="848" y2="178" stroke="#1F6F50" stroke-width="2.4" stroke-dasharray="6,4"/><circle cx="848" cy="178" r="5" fill="#D59F67"/><rect x="604" y="166" width="148" height="22" rx="11" fill="#153B30" stroke="#DFB982" stroke-width="1.2"/><text x="678" y="181" text-anchor="middle" font-family="Inter, sans-serif" font-size="10" font-weight="800" fill="#DFB982">L-02 ➔ L-03: Sign In</text><line x1="848" y1="178" x2="1188" y2="178" stroke="#1F6F50" stroke-width="2.4" stroke-dasharray="6,4"/><circle cx="1188" cy="178" r="5" fill="#D59F67"/><rect x="944" y="166" width="148" height="22" rx="11" fill="#153B30" stroke="#DFB982" stroke-width="1.2"/><text x="1018" y="181" text-anchor="middle" font-family="Inter, sans-serif" font-size="10" font-weight="800" fill="#DFB982">L-03 ➔ L-04: WhatsApp</text><line x1="1188" y1="178" x2="1528" y2="178" stroke="#1F6F50" stroke-width="2.4" stroke-dasharray="6,4"/><circle cx="1528" cy="178" r="5" fill="#D59F67"/><rect x="1284" y="166" width="148" height="22" rx="11" fill="#153B30" stroke="#DFB982" stroke-width="1.2"/><text x="1358" y="181" text-anchor="middle" font-family="Inter, sans-serif" font-size="10" font-weight="800" fill="#DFB982">L-04 ➔ L-05: Poster View</text><line x1="1528" y1="178" x2="168" y2="458" stroke="#1F6F50" stroke-width="2.4" stroke-dasharray="6,4"/><circle cx="168" cy="458" r="5" fill="#D59F67"/><rect x="774" y="306" width="148" height="22" rx="11" fill="#153B30" stroke="#DFB982" stroke-width="1.2"/><text x="848" y="321" text-anchor="middle" font-family="Inter, sans-serif" font-size="10" font-weight="800" fill="#DFB982">L-05 ➔ L-06: Register</text><line x1="848" y1="178" x2="168" y2="458" stroke="#1F6F50" stroke-width="2.4" stroke-dasharray="6,4"/><circle cx="168" cy="458" r="5" fill="#D59F67"/><rect x="434" y="306" width="148" height="22" rx="11" fill="#153B30" stroke="#DFB982" stroke-width="1.2"/><text x="508" y="321" text-anchor="middle" font-family="Inter, sans-serif" font-size="10" font-weight="800" fill="#DFB982">L-03 ➔ L-06: Register</text><line x1="168" y1="458" x2="508" y2="458" stroke="#1F6F50" stroke-width="2.4" stroke-dasharray="6,4"/><circle cx="508" cy="458" r="5" fill="#D59F67"/><rect x="264" y="446" width="148" height="22" rx="11" fill="#153B30" stroke="#DFB982" stroke-width="1.2"/><text x="338" y="461" text-anchor="middle" font-family="Inter, sans-serif" font-size="10" font-weight="800" fill="#DFB982">L-06 ➔ L-07: Save Device</text><line x1="508" y1="458" x2="848" y2="458" stroke="#1F6F50" stroke-width="2.4" stroke-dasharray="6,4"/><circle cx="848" cy="458" r="5" fill="#D59F67"/><rect x="604" y="446" width="148" height="22" rx="11" fill="#153B30" stroke="#DFB982" stroke-width="1.2"/><text x="678" y="461" text-anchor="middle" font-family="Inter, sans-serif" font-size="10" font-weight="800" fill="#DFB982">L-07 ➔ L-08: Check Box</text><line x1="848" y1="458" x2="1188" y2="458" stroke="#1F6F50" stroke-width="2.4" stroke-dasharray="6,4"/><circle cx="1188" cy="458" r="5" fill="#D59F67"/><rect x="944" y="446" width="148" height="22" rx="11" fill="#153B30" stroke="#DFB982" stroke-width="1.2"/><text x="1018" y="461" text-anchor="middle" font-family="Inter, sans-serif" font-size="10" font-weight="800" fill="#DFB982">L-08 ➔ L-09: Mark Ready</text><line x1="1188" y1="458" x2="1528" y2="458" stroke="#1F6F50" stroke-width="2.4" stroke-dasharray="6,4"/><circle cx="1528" cy="458" r="5" fill="#D59F67"/><rect x="1284" y="446" width="148" height="22" rx="11" fill="#153B30" stroke="#DFB982" stroke-width="1.2"/><text x="1358" y="461" text-anchor="middle" font-family="Inter, sans-serif" font-size="10" font-weight="800" fill="#DFB982">L-09 ➔ L-10: Send All</text><line x1="1528" y1="458" x2="338" y2="738" stroke="#1F6F50" stroke-width="2.4" stroke-dasharray="6,4"/><circle cx="338" cy="738" r="5" fill="#D59F67"/><rect x="859" y="586" width="148" height="22" rx="11" fill="#153B30" stroke="#DFB982" stroke-width="1.2"/><text x="933" y="601" text-anchor="middle" font-family="Inter, sans-serif" font-size="10" font-weight="800" fill="#DFB982">L-10 ➔ L-11: Needs Update</text><line x1="338" y1="738" x2="848" y2="738" stroke="#1F6F50" stroke-width="2.4" stroke-dasharray="6,4"/><circle cx="848" cy="738" r="5" fill="#D59F67"/><rect x="519" y="726" width="148" height="22" rx="11" fill="#153B30" stroke="#DFB982" stroke-width="1.2"/><text x="593" y="741" text-anchor="middle" font-family="Inter, sans-serif" font-size="10" font-weight="800" fill="#DFB982">L-11 ➔ L-12: Updated</text><line x1="848" y1="738" x2="1358" y2="738" stroke="#1F6F50" stroke-width="2.4" stroke-dasharray="6,4"/><circle cx="1358" cy="738" r="5" fill="#D59F67"/><rect x="1029" y="726" width="148" height="22" rx="11" fill="#153B30" stroke="#DFB982" stroke-width="1.2"/><text x="1103" y="741" text-anchor="middle" font-family="Inter, sans-serif" font-size="10" font-weight="800" fill="#DFB982">L-12 ➔ L-13: Profile</text>
+  
+        <g>
+          <rect x="50" y="130" width="236" height="96" rx="14" fill="#FFFFFF" stroke="#1F6F50" stroke-width="2.2"/>
+          <rect x="50" y="130" width="236" height="32" rx="14" fill="#153B30"/>
+          <rect x="60" y="136" width="54" height="20" rx="6" fill="#DFB982"/>
+          <text x="87" y="150" text-anchor="middle" font-family="Inter, sans-serif" font-size="11" font-weight="800" fill="#18241E">L-01</text>
+          <text x="124" y="150" font-family="Inter, sans-serif" font-size="11" font-weight="700" fill="#FFFFFF">Leader Sign In (Empty)</text>
+          <text x="62" y="184" font-family="Inter, sans-serif" font-size="12" font-weight="800" fill="#1F2937">Leader Sign In (Empty)</text>
+          <text x="62" y="204" font-family="Inter, sans-serif" font-size="10.5" font-weight="600" fill="#4B5563">Click inputs to fill email</text>
+        </g>
+        
+        <g>
+          <rect x="390" y="130" width="236" height="96" rx="14" fill="#FFFFFF" stroke="#1F6F50" stroke-width="2.2"/>
+          <rect x="390" y="130" width="236" height="32" rx="14" fill="#153B30"/>
+          <rect x="400" y="136" width="54" height="20" rx="6" fill="#DFB982"/>
+          <text x="427" y="150" text-anchor="middle" font-family="Inter, sans-serif" font-size="11" font-weight="800" fill="#18241E">L-02</text>
+          <text x="464" y="150" font-family="Inter, sans-serif" font-size="11" font-weight="700" fill="#FFFFFF">Leader Sign In (Filled</text>
+          <text x="402" y="184" font-family="Inter, sans-serif" font-size="12" font-weight="800" fill="#1F2937">Leader Sign In (Filled)</text>
+          <text x="402" y="204" font-family="Inter, sans-serif" font-size="10.5" font-weight="600" fill="#4B5563">leader.aminah@rose.org.my</text>
+        </g>
+        
+        <g>
+          <rect x="730" y="130" width="236" height="96" rx="14" fill="#FFFFFF" stroke="#1F6F50" stroke-width="2.2"/>
+          <rect x="730" y="130" width="236" height="32" rx="14" fill="#153B30"/>
+          <rect x="740" y="136" width="54" height="20" rx="6" fill="#DFB982"/>
+          <text x="767" y="150" text-anchor="middle" font-family="Inter, sans-serif" font-size="11" font-weight="800" fill="#18241E">L-03</text>
+          <text x="804" y="150" font-family="Inter, sans-serif" font-size="11" font-weight="700" fill="#FFFFFF">Community Events Hub</text>
+          <text x="742" y="184" font-family="Inter, sans-serif" font-size="12" font-weight="800" fill="#1F2937">Community Events Hub</text>
+          <text x="742" y="204" font-family="Inter, sans-serif" font-size="10.5" font-weight="600" fill="#4B5563">10 Reserved Community Places</text>
+        </g>
+        
+        <g>
+          <rect x="1070" y="130" width="236" height="96" rx="14" fill="#FFFFFF" stroke="#1F6F50" stroke-width="2.2"/>
+          <rect x="1070" y="130" width="236" height="32" rx="14" fill="#153B30"/>
+          <rect x="1080" y="136" width="54" height="20" rx="6" fill="#DFB982"/>
+          <text x="1107" y="150" text-anchor="middle" font-family="Inter, sans-serif" font-size="11" font-weight="800" fill="#18241E">L-04</text>
+          <text x="1144" y="150" font-family="Inter, sans-serif" font-size="11" font-weight="700" fill="#FFFFFF">Share Event on WhatsAp</text>
+          <text x="1082" y="184" font-family="Inter, sans-serif" font-size="12" font-weight="800" fill="#1F2937">Share Event on WhatsApp</text>
+          <text x="1082" y="204" font-family="Inter, sans-serif" font-size="10.5" font-weight="600" fill="#4B5563">Bilingual Invite Link</text>
+        </g>
+        
+        <g>
+          <rect x="1410" y="130" width="236" height="96" rx="14" fill="#FFFFFF" stroke="#1F6F50" stroke-width="2.2"/>
+          <rect x="1410" y="130" width="236" height="32" rx="14" fill="#153B30"/>
+          <rect x="1420" y="136" width="54" height="20" rx="6" fill="#DFB982"/>
+          <text x="1447" y="150" text-anchor="middle" font-family="Inter, sans-serif" font-size="11" font-weight="800" fill="#18241E">L-05</text>
+          <text x="1484" y="150" font-family="Inter, sans-serif" font-size="11" font-weight="700" fill="#FFFFFF">Event Poster &amp; Tools</text>
+          <text x="1422" y="184" font-family="Inter, sans-serif" font-size="12" font-weight="800" fill="#1F2937">Event Poster &amp; Tools</text>
+          <text x="1422" y="204" font-family="Inter, sans-serif" font-size="10.5" font-weight="600" fill="#4B5563">Download A4 PDF Poster</text>
+        </g>
+        
+        <g>
+          <rect x="50" y="410" width="236" height="96" rx="14" fill="#FFFFFF" stroke="#1F6F50" stroke-width="2.2"/>
+          <rect x="50" y="410" width="236" height="32" rx="14" fill="#153B30"/>
+          <rect x="60" y="416" width="54" height="20" rx="6" fill="#DFB982"/>
+          <text x="87" y="430" text-anchor="middle" font-family="Inter, sans-serif" font-size="11" font-weight="800" fill="#18241E">L-06</text>
+          <text x="124" y="430" font-family="Inter, sans-serif" font-size="11" font-weight="700" fill="#FFFFFF">Register Resident (Emp</text>
+          <text x="62" y="464" font-family="Inter, sans-serif" font-size="12" font-weight="800" fill="#1F2937">Register Resident (Empty)</text>
+          <text x="62" y="484" font-family="Inter, sans-serif" font-size="10.5" font-weight="600" fill="#4B5563">6 Basic Fields · Offline Ready</text>
+        </g>
+        
+        <g>
+          <rect x="390" y="410" width="236" height="96" rx="14" fill="#FFFFFF" stroke="#1F6F50" stroke-width="2.2"/>
+          <rect x="390" y="410" width="236" height="32" rx="14" fill="#153B30"/>
+          <rect x="400" y="416" width="54" height="20" rx="6" fill="#DFB982"/>
+          <text x="427" y="430" text-anchor="middle" font-family="Inter, sans-serif" font-size="11" font-weight="800" fill="#18241E">L-07</text>
+          <text x="464" y="430" font-family="Inter, sans-serif" font-size="11" font-weight="700" fill="#FFFFFF">Saved on Device (3)</text>
+          <text x="402" y="464" font-family="Inter, sans-serif" font-size="12" font-weight="800" fill="#1F2937">Saved on Device (3)</text>
+          <text x="402" y="484" font-family="Inter, sans-serif" font-size="10.5" font-weight="600" fill="#4B5563">Stays Saved Without Internet</text>
+        </g>
+        
+        <g>
+          <rect x="730" y="410" width="236" height="96" rx="14" fill="#FFFFFF" stroke="#1F6F50" stroke-width="2.2"/>
+          <rect x="730" y="410" width="236" height="32" rx="14" fill="#153B30"/>
+          <rect x="740" y="416" width="54" height="20" rx="6" fill="#DFB982"/>
+          <text x="767" y="430" text-anchor="middle" font-family="Inter, sans-serif" font-size="11" font-weight="800" fill="#18241E">L-08</text>
+          <text x="804" y="430" font-family="Inter, sans-serif" font-size="11" font-weight="700" fill="#FFFFFF">Resident Consent Check</text>
+          <text x="742" y="464" font-family="Inter, sans-serif" font-size="12" font-weight="800" fill="#1F2937">Resident Consent Check</text>
+          <text x="742" y="484" font-family="Inter, sans-serif" font-size="10.5" font-weight="600" fill="#4B5563">Tick Box Before Sending</text>
+        </g>
+        
+        <g>
+          <rect x="1070" y="410" width="236" height="96" rx="14" fill="#FFFFFF" stroke="#1F6F50" stroke-width="2.2"/>
+          <rect x="1070" y="410" width="236" height="32" rx="14" fill="#153B30"/>
+          <rect x="1080" y="416" width="54" height="20" rx="6" fill="#DFB982"/>
+          <text x="1107" y="430" text-anchor="middle" font-family="Inter, sans-serif" font-size="11" font-weight="800" fill="#18241E">L-09</text>
+          <text x="1144" y="430" font-family="Inter, sans-serif" font-size="11" font-weight="700" fill="#FFFFFF">Ready to Send (3)</text>
+          <text x="1082" y="464" font-family="Inter, sans-serif" font-size="12" font-weight="800" fill="#1F2937">Ready to Send (3)</text>
+          <text x="1082" y="484" font-family="Inter, sans-serif" font-size="10.5" font-weight="600" fill="#4B5563">All 3 Marked Ready to Send</text>
+        </g>
+        
+        <g>
+          <rect x="1410" y="410" width="236" height="96" rx="14" fill="#FFFFFF" stroke="#1F6F50" stroke-width="2.2"/>
+          <rect x="1410" y="410" width="236" height="32" rx="14" fill="#153B30"/>
+          <rect x="1420" y="416" width="54" height="20" rx="6" fill="#DFB982"/>
+          <text x="1447" y="430" text-anchor="middle" font-family="Inter, sans-serif" font-size="11" font-weight="800" fill="#18241E">L-10</text>
+          <text x="1484" y="430" font-family="Inter, sans-serif" font-size="11" font-weight="700" fill="#FFFFFF">Sent to Organizer</text>
+          <text x="1422" y="464" font-family="Inter, sans-serif" font-size="12" font-weight="800" fill="#1F2937">Sent to Organizer</text>
+          <text x="1422" y="484" font-family="Inter, sans-serif" font-size="10.5" font-weight="600" fill="#4B5563">Status: Pending Review</text>
+        </g>
+        
+        <g>
+          <rect x="220" y="690" width="236" height="96" rx="14" fill="#FFFFFF" stroke="#1F6F50" stroke-width="2.2"/>
+          <rect x="220" y="690" width="236" height="32" rx="14" fill="#153B30"/>
+          <rect x="230" y="696" width="54" height="20" rx="6" fill="#DFB982"/>
+          <text x="257" y="710" text-anchor="middle" font-family="Inter, sans-serif" font-size="11" font-weight="800" fill="#18241E">L-11</text>
+          <text x="294" y="710" font-family="Inter, sans-serif" font-size="11" font-weight="700" fill="#FFFFFF">Needs ID Update (1)</text>
+          <text x="232" y="744" font-family="Inter, sans-serif" font-size="12" font-weight="800" fill="#1F2937">Needs ID Update (1)</text>
+          <text x="232" y="764" font-family="Inter, sans-serif" font-size="10.5" font-weight="600" fill="#4B5563">Update Resident ID &amp; Resend</text>
+        </g>
+        
+        <g>
+          <rect x="730" y="690" width="236" height="96" rx="14" fill="#FFFFFF" stroke="#1F6F50" stroke-width="2.2"/>
+          <rect x="730" y="690" width="236" height="32" rx="14" fill="#153B30"/>
+          <rect x="740" y="696" width="54" height="20" rx="6" fill="#DFB982"/>
+          <text x="767" y="710" text-anchor="middle" font-family="Inter, sans-serif" font-size="11" font-weight="800" fill="#18241E">L-12</text>
+          <text x="804" y="710" font-family="Inter, sans-serif" font-size="11" font-weight="700" fill="#FFFFFF">All Registrations Sent</text>
+          <text x="742" y="744" font-family="Inter, sans-serif" font-size="12" font-weight="800" fill="#1F2937">All Registrations Sent</text>
+          <text x="742" y="764" font-family="Inter, sans-serif" font-size="10.5" font-weight="600" fill="#4B5563">All 4 Residents Sent</text>
+        </g>
+        
+        <g>
+          <rect x="1240" y="690" width="236" height="96" rx="14" fill="#FFFFFF" stroke="#1F6F50" stroke-width="2.2"/>
+          <rect x="1240" y="690" width="236" height="32" rx="14" fill="#153B30"/>
+          <rect x="1250" y="696" width="54" height="20" rx="6" fill="#DFB982"/>
+          <text x="1277" y="710" text-anchor="middle" font-family="Inter, sans-serif" font-size="11" font-weight="800" fill="#18241E">L-13</text>
+          <text x="1314" y="710" font-family="Inter, sans-serif" font-size="11" font-weight="700" fill="#FFFFFF">Leader Profile &amp; Sign </text>
+          <text x="1252" y="744" font-family="Inter, sans-serif" font-size="12" font-weight="800" fill="#1F2937">Leader Profile &amp; Sign Out</text>
+          <text x="1252" y="764" font-family="Inter, sans-serif" font-size="10.5" font-weight="600" fill="#4B5563">Aminah Binti Hassan · Sign Out</text>
+        </g>
+        
+  <rect x="40" y="996" width="1720" height="60" rx="12" fill="#EDF3F0" stroke="#88B69E" stroke-width="1.5"/>
+  <text x="64" y="1024" font-family="Inter, sans-serif" font-size="13" font-weight="800" fill="#153B30">📌 User-Friendly Prototype Blueprint: Role 1 (Participant &amp; Guest · 26 States) · Role 2 (Community Leader · 13 States) · Role 3 (Organizer &amp; Check-In · 22 States)</text>
+  <text x="64" y="1044" font-family="Inter, sans-serif" font-size="12" font-weight="600" fill="#1F6F50">Every connector pill explicitly labels [Source ID ➔ Target ID: User Action] for direct Figma Prototype wiring and live demonstrations.</text>
+</svg>

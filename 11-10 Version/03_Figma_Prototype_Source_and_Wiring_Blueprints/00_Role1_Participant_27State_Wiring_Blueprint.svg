@@ -1,0 +1,207 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1800 1080" width="1800" height="1080">
+  <rect x="0" y="0" width="1800" height="1080" fill="#FAF8F4"/>
+  <rect x="0" y="0" width="1800" height="92" fill="#153B30"/>
+  <text x="40" y="42" font-family="Inter, sans-serif" font-size="23" font-weight="800" fill="#FFFFFF">Role 1 · Participant &amp; Guest — Complete 19-State Prototype Wiring Map (V4 Refined)</text>
+  <text x="40" y="70" font-family="Inter, sans-serif" font-size="13" font-weight="600" fill="#DFB982">Search Bar Filter (P-01➔P-02) · Clean Guest Form -&gt; Registration Completed Notice (P-07➔P-08➔P-10) · Single-Card Log In (P-14) · Sign Up + Validation Error + 6-Digit SMS OTP (P-15..P-18)</text>
+  <line x1="152" y1="166" x2="422" y2="166" stroke="#1F6F50" stroke-width="2.2" stroke-dasharray="6,4"/><circle cx="422" cy="166" r="4.5" fill="#D59F67"/><rect x="219" y="155" width="136" height="20" rx="10" fill="#153B30" stroke="#DFB982" stroke-width="1"/><text x="287" y="169" text-anchor="middle" font-family="Inter, sans-serif" font-size="9.5" font-weight="800" fill="#DFB982">P-01➔P-02: Search/EN⇄BM</text><line x1="152" y1="166" x2="692" y2="166" stroke="#1F6F50" stroke-width="2.2" stroke-dasharray="6,4"/><circle cx="692" cy="166" r="4.5" fill="#D59F67"/><rect x="354" y="155" width="136" height="20" rx="10" fill="#153B30" stroke="#DFB982" stroke-width="1"/><text x="422" y="169" text-anchor="middle" font-family="Inter, sans-serif" font-size="9.5" font-weight="800" fill="#DFB982">P-01➔P-03: View Details</text><line x1="152" y1="166" x2="692" y2="646" stroke="#1F6F50" stroke-width="2.2" stroke-dasharray="6,4"/><circle cx="692" cy="646" r="4.5" fill="#D59F67"/><rect x="354" y="395" width="136" height="20" rx="10" fill="#153B30" stroke="#DFB982" stroke-width="1"/><text x="422" y="409" text-anchor="middle" font-family="Inter, sans-serif" font-size="9.5" font-weight="800" fill="#DFB982">P-01➔P-14: Log In</text><line x1="152" y1="166" x2="962" y2="646" stroke="#1F6F50" stroke-width="2.2" stroke-dasharray="6,4"/><circle cx="962" cy="646" r="4.5" fill="#D59F67"/><rect x="489" y="395" width="136" height="20" rx="10" fill="#153B30" stroke="#DFB982" stroke-width="1"/><text x="557" y="409" text-anchor="middle" font-family="Inter, sans-serif" font-size="9.5" font-weight="800" fill="#DFB982">P-01➔P-15: Sign Up</text><line x1="692" y1="166" x2="1232" y2="166" stroke="#1F6F50" stroke-width="2.2" stroke-dasharray="6,4"/><circle cx="1232" cy="166" r="4.5" fill="#D59F67"/><rect x="894" y="155" width="136" height="20" rx="10" fill="#153B30" stroke="#DFB982" stroke-width="1"/><text x="962" y="169" text-anchor="middle" font-family="Inter, sans-serif" font-size="9.5" font-weight="800" fill="#DFB982">P-03➔P-05: Guest Form</text><line x1="1232" y1="166" x2="1502" y2="166" stroke="#1F6F50" stroke-width="2.2" stroke-dasharray="6,4"/><circle cx="1502" cy="166" r="4.5" fill="#D59F67"/><rect x="1299" y="155" width="136" height="20" rx="10" fill="#153B30" stroke="#DFB982" stroke-width="1"/><text x="1367" y="169" text-anchor="middle" font-family="Inter, sans-serif" font-size="9.5" font-weight="800" fill="#DFB982">P-05➔P-06: Empty Submit</text><line x1="1502" y1="166" x2="152" y2="406" stroke="#1F6F50" stroke-width="2.2" stroke-dasharray="6,4"/><circle cx="152" cy="406" r="4.5" fill="#D59F67"/><rect x="759" y="275" width="136" height="20" rx="10" fill="#153B30" stroke="#DFB982" stroke-width="1"/><text x="827" y="289" text-anchor="middle" font-family="Inter, sans-serif" font-size="9.5" font-weight="800" fill="#DFB982">P-06➔P-06E: Dup Check</text><line x1="152" y1="406" x2="422" y2="406" stroke="#1F6F50" stroke-width="2.2" stroke-dasharray="6,4"/><circle cx="422" cy="406" r="4.5" fill="#D59F67"/><rect x="219" y="395" width="136" height="20" rx="10" fill="#153B30" stroke="#DFB982" stroke-width="1"/><text x="287" y="409" text-anchor="middle" font-family="Inter, sans-serif" font-size="9.5" font-weight="800" fill="#DFB982">P-06E➔P-07: Fix ID</text><line x1="422" y1="406" x2="692" y2="406" stroke="#1F6F50" stroke-width="2.2" stroke-dasharray="6,4"/><circle cx="692" cy="406" r="4.5" fill="#D59F67"/><rect x="489" y="395" width="136" height="20" rx="10" fill="#153B30" stroke="#DFB982" stroke-width="1"/><text x="557" y="409" text-anchor="middle" font-family="Inter, sans-serif" font-size="9.5" font-weight="800" fill="#DFB982">P-07➔P-08: Submit App</text><line x1="692" y1="406" x2="1232" y2="406" stroke="#1F6F50" stroke-width="2.2" stroke-dasharray="6,4"/><circle cx="1232" cy="406" r="4.5" fill="#D59F67"/><rect x="894" y="395" width="136" height="20" rx="10" fill="#153B30" stroke="#DFB982" stroke-width="1"/><text x="962" y="409" text-anchor="middle" font-family="Inter, sans-serif" font-size="9.5" font-weight="800" fill="#DFB982">P-08➔P-10: View Status</text><line x1="1232" y1="406" x2="1502" y2="406" stroke="#1F6F50" stroke-width="2.2" stroke-dasharray="6,4"/><circle cx="1502" cy="406" r="4.5" fill="#D59F67"/><rect x="1299" y="395" width="136" height="20" rx="10" fill="#153B30" stroke="#DFB982" stroke-width="1"/><text x="1367" y="409" text-anchor="middle" font-family="Inter, sans-serif" font-size="9.5" font-weight="800" fill="#DFB982">P-10➔P-11: View Pass</text><line x1="1502" y1="406" x2="152" y2="646" stroke="#1F6F50" stroke-width="2.2" stroke-dasharray="6,4"/><circle cx="152" cy="646" r="4.5" fill="#D59F67"/><rect x="759" y="515" width="136" height="20" rx="10" fill="#153B30" stroke="#DFB982" stroke-width="1"/><text x="827" y="529" text-anchor="middle" font-family="Inter, sans-serif" font-size="9.5" font-weight="800" fill="#DFB982">P-11➔P-12: Cancel</text><line x1="152" y1="646" x2="422" y2="646" stroke="#1F6F50" stroke-width="2.2" stroke-dasharray="6,4"/><circle cx="422" cy="646" r="4.5" fill="#D59F67"/><rect x="219" y="635" width="136" height="20" rx="10" fill="#153B30" stroke="#DFB982" stroke-width="1"/><text x="287" y="649" text-anchor="middle" font-family="Inter, sans-serif" font-size="9.5" font-weight="800" fill="#DFB982">P-12➔P-13: Confirmed</text><line x1="692" y1="646" x2="962" y2="646" stroke="#1F6F50" stroke-width="2.2" stroke-dasharray="6,4"/><circle cx="962" cy="646" r="4.5" fill="#D59F67"/><rect x="759" y="635" width="136" height="20" rx="10" fill="#153B30" stroke="#DFB982" stroke-width="1"/><text x="827" y="649" text-anchor="middle" font-family="Inter, sans-serif" font-size="9.5" font-weight="800" fill="#DFB982">P-14➔P-15: Switch SignUp</text><line x1="692" y1="646" x2="1232" y2="406" stroke="#1F6F50" stroke-width="2.2" stroke-dasharray="6,4"/><circle cx="1232" cy="406" r="4.5" fill="#D59F67"/><rect x="894" y="515" width="136" height="20" rx="10" fill="#153B30" stroke="#DFB982" stroke-width="1"/><text x="962" y="529" text-anchor="middle" font-family="Inter, sans-serif" font-size="9.5" font-weight="800" fill="#DFB982">P-14➔P-10: Log In Ok</text><line x1="962" y1="646" x2="1232" y2="646" stroke="#1F6F50" stroke-width="2.2" stroke-dasharray="6,4"/><circle cx="1232" cy="646" r="4.5" fill="#D59F67"/><rect x="1029" y="635" width="136" height="20" rx="10" fill="#153B30" stroke="#DFB982" stroke-width="1"/><text x="1097" y="649" text-anchor="middle" font-family="Inter, sans-serif" font-size="9.5" font-weight="800" fill="#DFB982">P-15➔P-16: Format Error</text><line x1="1232" y1="646" x2="1502" y2="646" stroke="#1F6F50" stroke-width="2.2" stroke-dasharray="6,4"/><circle cx="1502" cy="646" r="4.5" fill="#D59F67"/><rect x="1299" y="635" width="136" height="20" rx="10" fill="#153B30" stroke="#DFB982" stroke-width="1"/><text x="1367" y="649" text-anchor="middle" font-family="Inter, sans-serif" font-size="9.5" font-weight="800" fill="#DFB982">P-16➔P-17: Fix &amp; Send OTP</text><line x1="962" y1="646" x2="1502" y2="646" stroke="#1F6F50" stroke-width="2.2" stroke-dasharray="6,4"/><circle cx="1502" cy="646" r="4.5" fill="#D59F67"/><rect x="1164" y="635" width="136" height="20" rx="10" fill="#153B30" stroke="#DFB982" stroke-width="1"/><text x="1232" y="649" text-anchor="middle" font-family="Inter, sans-serif" font-size="9.5" font-weight="800" fill="#DFB982">P-15➔P-17: Send SMS OTP</text><line x1="1502" y1="646" x2="1502" y2="866" stroke="#1F6F50" stroke-width="2.2" stroke-dasharray="6,4"/><circle cx="1502" cy="866" r="4.5" fill="#D59F67"/><rect x="1434" y="745" width="136" height="20" rx="10" fill="#153B30" stroke="#DFB982" stroke-width="1"/><text x="1502" y="759" text-anchor="middle" font-family="Inter, sans-serif" font-size="9.5" font-weight="800" fill="#DFB982">P-17➔P-18: Wrong OTP</text><line x1="1502" y1="866" x2="1502" y2="646" stroke="#1F6F50" stroke-width="2.2" stroke-dasharray="6,4"/><circle cx="1502" cy="646" r="4.5" fill="#D59F67"/><rect x="1434" y="745" width="136" height="20" rx="10" fill="#153B30" stroke="#DFB982" stroke-width="1"/><text x="1502" y="759" text-anchor="middle" font-family="Inter, sans-serif" font-size="9.5" font-weight="800" fill="#DFB982">P-18➔P-17: Resend OTP</text><line x1="1502" y1="646" x2="1232" y2="406" stroke="#1F6F50" stroke-width="2.2" stroke-dasharray="6,4"/><circle cx="1232" cy="406" r="4.5" fill="#D59F67"/><rect x="1299" y="515" width="136" height="20" rx="10" fill="#153B30" stroke="#DFB982" stroke-width="1"/><text x="1367" y="529" text-anchor="middle" font-family="Inter, sans-serif" font-size="9.5" font-weight="800" fill="#DFB982">P-17➔P-10: OTP Verified</text>
+  
+        <g>
+          <rect x="40" y="120" width="224" height="92" rx="12" fill="#FFFFFF" stroke="#1F6F50" stroke-width="2"/>
+          <rect x="40" y="120" width="224" height="30" rx="12" fill="#153B30"/>
+          <rect x="48" y="125" width="50" height="20" rx="6" fill="#DFB982"/>
+          <text x="73" y="139" text-anchor="middle" font-family="Inter, sans-serif" font-size="10.5" font-weight="800" fill="#18241E">P-01</text>
+          <text x="106" y="139" font-family="Inter, sans-serif" font-size="10.5" font-weight="700" fill="#FFFFFF">Home (EN · Guest Mod</text>
+          <text x="50" y="172" font-family="Inter, sans-serif" font-size="11.5" font-weight="800" fill="#1F2937">Home (EN · Guest Mode)</text>
+          <text x="50" y="192" font-family="Inter, sans-serif" font-size="10" font-weight="600" fill="#4B5563">Search Bar-&gt;P-02 · LogIn-&gt;P-14</text>
+        </g>
+        
+        <g>
+          <rect x="310" y="120" width="224" height="92" rx="12" fill="#FFFFFF" stroke="#1F6F50" stroke-width="2"/>
+          <rect x="310" y="120" width="224" height="30" rx="12" fill="#153B30"/>
+          <rect x="318" y="125" width="50" height="20" rx="6" fill="#DFB982"/>
+          <text x="343" y="139" text-anchor="middle" font-family="Inter, sans-serif" font-size="10.5" font-weight="800" fill="#18241E">P-02</text>
+          <text x="376" y="139" font-family="Inter, sans-serif" font-size="10.5" font-weight="700" fill="#FFFFFF">Search Filtered / BM</text>
+          <text x="320" y="172" font-family="Inter, sans-serif" font-size="11.5" font-weight="800" fill="#1F2937">Search Filtered / BM</text>
+          <text x="320" y="192" font-family="Inter, sans-serif" font-size="10" font-weight="600" fill="#4B5563">Screening Filter &amp; BM View</text>
+        </g>
+        
+        <g>
+          <rect x="580" y="120" width="224" height="92" rx="12" fill="#FFFFFF" stroke="#1F6F50" stroke-width="2"/>
+          <rect x="580" y="120" width="224" height="30" rx="12" fill="#153B30"/>
+          <rect x="588" y="125" width="50" height="20" rx="6" fill="#DFB982"/>
+          <text x="613" y="139" text-anchor="middle" font-family="Inter, sans-serif" font-size="10.5" font-weight="800" fill="#18241E">P-03</text>
+          <text x="646" y="139" font-family="Inter, sans-serif" font-size="10.5" font-weight="700" fill="#FFFFFF">Event Details &amp; Gues</text>
+          <text x="590" y="172" font-family="Inter, sans-serif" font-size="11.5" font-weight="800" fill="#1F2937">Event Details &amp; Guest Apply</text>
+          <text x="590" y="192" font-family="Inter, sans-serif" font-size="10" font-weight="600" fill="#4B5563">No Dup Lang · LogIn/SignUp Tabs</text>
+        </g>
+        
+        <g>
+          <rect x="850" y="120" width="224" height="92" rx="12" fill="#FFFFFF" stroke="#1F6F50" stroke-width="2"/>
+          <rect x="850" y="120" width="224" height="30" rx="12" fill="#153B30"/>
+          <rect x="858" y="125" width="50" height="20" rx="6" fill="#DFB982"/>
+          <text x="883" y="139" text-anchor="middle" font-family="Inter, sans-serif" font-size="10.5" font-weight="800" fill="#18241E">P-04</text>
+          <text x="916" y="139" font-family="Inter, sans-serif" font-size="10.5" font-weight="700" fill="#FFFFFF">WhatsApp Share Modal</text>
+          <text x="860" y="172" font-family="Inter, sans-serif" font-size="11.5" font-weight="800" fill="#1F2937">WhatsApp Share Modal</text>
+          <text x="860" y="192" font-family="Inter, sans-serif" font-size="10" font-weight="600" fill="#4B5563">Share &amp; Copy Event Link</text>
+        </g>
+        
+        <g>
+          <rect x="1120" y="120" width="224" height="92" rx="12" fill="#FFFFFF" stroke="#1F6F50" stroke-width="2"/>
+          <rect x="1120" y="120" width="224" height="30" rx="12" fill="#153B30"/>
+          <rect x="1128" y="125" width="50" height="20" rx="6" fill="#DFB982"/>
+          <text x="1153" y="139" text-anchor="middle" font-family="Inter, sans-serif" font-size="10.5" font-weight="800" fill="#18241E">P-05</text>
+          <text x="1186" y="139" font-family="Inter, sans-serif" font-size="10.5" font-weight="700" fill="#FFFFFF">Guest 6-Field Form (</text>
+          <text x="1130" y="172" font-family="Inter, sans-serif" font-size="11.5" font-weight="800" fill="#1F2937">Guest 6-Field Form (Empty)</text>
+          <text x="1130" y="192" font-family="Inter, sans-serif" font-size="10" font-weight="600" fill="#4B5563">Clean 6 Fields + Optional Docs</text>
+        </g>
+        
+        <g>
+          <rect x="1390" y="120" width="224" height="92" rx="12" fill="#FFFFFF" stroke="#1F6F50" stroke-width="2"/>
+          <rect x="1390" y="120" width="224" height="30" rx="12" fill="#153B30"/>
+          <rect x="1398" y="125" width="50" height="20" rx="6" fill="#DFB982"/>
+          <text x="1423" y="139" text-anchor="middle" font-family="Inter, sans-serif" font-size="10.5" font-weight="800" fill="#18241E">P-06</text>
+          <text x="1456" y="139" font-family="Inter, sans-serif" font-size="10.5" font-weight="700" fill="#FFFFFF">Guest Field Validati</text>
+          <text x="1400" y="172" font-family="Inter, sans-serif" font-size="11.5" font-weight="800" fill="#1F2937">Guest Field Validation</text>
+          <text x="1400" y="192" font-family="Inter, sans-serif" font-size="10" font-weight="600" fill="#4B5563">Missing Phone / ID Prompt</text>
+        </g>
+        
+        <g>
+          <rect x="40" y="360" width="224" height="92" rx="12" fill="#FFFFFF" stroke="#1F6F50" stroke-width="2"/>
+          <rect x="40" y="360" width="224" height="30" rx="12" fill="#153B30"/>
+          <rect x="48" y="365" width="50" height="20" rx="6" fill="#DFB982"/>
+          <text x="73" y="379" text-anchor="middle" font-family="Inter, sans-serif" font-size="10.5" font-weight="800" fill="#18241E">P-06E</text>
+          <text x="106" y="379" font-family="Inter, sans-serif" font-size="10.5" font-weight="700" fill="#FFFFFF">Duplicate ID Check</text>
+          <text x="50" y="412" font-family="Inter, sans-serif" font-size="11.5" font-weight="800" fill="#1F2937">Duplicate ID Check</text>
+          <text x="50" y="432" font-family="Inter, sans-serif" font-size="10" font-weight="600" fill="#4B5563">Retains Inputs for Easy Edit</text>
+        </g>
+        
+        <g>
+          <rect x="310" y="360" width="224" height="92" rx="12" fill="#FFFFFF" stroke="#1F6F50" stroke-width="2"/>
+          <rect x="310" y="360" width="224" height="30" rx="12" fill="#153B30"/>
+          <rect x="318" y="365" width="50" height="20" rx="6" fill="#DFB982"/>
+          <text x="343" y="379" text-anchor="middle" font-family="Inter, sans-serif" font-size="10.5" font-weight="800" fill="#18241E">P-07</text>
+          <text x="376" y="379" font-family="Inter, sans-serif" font-size="10.5" font-weight="700" fill="#FFFFFF">Guest 6-Field Form (</text>
+          <text x="320" y="412" font-family="Inter, sans-serif" font-size="11.5" font-weight="800" fill="#1F2937">Guest 6-Field Form (Filled)</text>
+          <text x="320" y="432" font-family="Inter, sans-serif" font-size="10" font-weight="600" fill="#4B5563">Chan Tai Man + 2 Docs Ready</text>
+        </g>
+        
+        <g>
+          <rect x="580" y="360" width="224" height="92" rx="12" fill="#FFFFFF" stroke="#1F6F50" stroke-width="2"/>
+          <rect x="580" y="360" width="224" height="30" rx="12" fill="#153B30"/>
+          <rect x="588" y="365" width="50" height="20" rx="6" fill="#DFB982"/>
+          <text x="613" y="379" text-anchor="middle" font-family="Inter, sans-serif" font-size="10.5" font-weight="800" fill="#18241E">P-08</text>
+          <text x="646" y="379" font-family="Inter, sans-serif" font-size="10.5" font-weight="700" fill="#FFFFFF">Registration Complet</text>
+          <text x="590" y="412" font-family="Inter, sans-serif" font-size="11.5" font-weight="800" fill="#1F2937">Registration Completed!</text>
+          <text x="590" y="432" font-family="Inter, sans-serif" font-size="10" font-weight="600" fill="#4B5563">Modal -&gt; View Status (P-10)</text>
+        </g>
+        
+        <g>
+          <rect x="850" y="360" width="224" height="92" rx="12" fill="#FFFFFF" stroke="#1F6F50" stroke-width="2"/>
+          <rect x="850" y="360" width="224" height="30" rx="12" fill="#153B30"/>
+          <rect x="858" y="365" width="50" height="20" rx="6" fill="#DFB982"/>
+          <text x="883" y="379" text-anchor="middle" font-family="Inter, sans-serif" font-size="10.5" font-weight="800" fill="#18241E">P-09</text>
+          <text x="916" y="379" font-family="Inter, sans-serif" font-size="10.5" font-weight="700" fill="#FFFFFF">Guest Waiting List F</text>
+          <text x="860" y="412" font-family="Inter, sans-serif" font-size="11.5" font-weight="800" fill="#1F2937">Guest Waiting List Flow</text>
+          <text x="860" y="432" font-family="Inter, sans-serif" font-size="10" font-weight="600" fill="#4B5563">Join Waitlist -&gt; P-08 Notice</text>
+        </g>
+        
+        <g>
+          <rect x="1120" y="360" width="224" height="92" rx="12" fill="#FFFFFF" stroke="#1F6F50" stroke-width="2"/>
+          <rect x="1120" y="360" width="224" height="30" rx="12" fill="#153B30"/>
+          <rect x="1128" y="365" width="50" height="20" rx="6" fill="#DFB982"/>
+          <text x="1153" y="379" text-anchor="middle" font-family="Inter, sans-serif" font-size="10.5" font-weight="800" fill="#18241E">P-10</text>
+          <text x="1186" y="379" font-family="Inter, sans-serif" font-size="10.5" font-weight="700" fill="#FFFFFF">My Registrations (St</text>
+          <text x="1130" y="412" font-family="Inter, sans-serif" font-size="11.5" font-weight="800" fill="#1F2937">My Registrations (Status)</text>
+          <text x="1130" y="432" font-family="Inter, sans-serif" font-size="10" font-weight="600" fill="#4B5563">View Pending / Approved Status</text>
+        </g>
+        
+        <g>
+          <rect x="1390" y="360" width="224" height="92" rx="12" fill="#FFFFFF" stroke="#1F6F50" stroke-width="2"/>
+          <rect x="1390" y="360" width="224" height="30" rx="12" fill="#153B30"/>
+          <rect x="1398" y="365" width="50" height="20" rx="6" fill="#DFB982"/>
+          <text x="1423" y="379" text-anchor="middle" font-family="Inter, sans-serif" font-size="10.5" font-weight="800" fill="#18241E">P-11</text>
+          <text x="1456" y="379" font-family="Inter, sans-serif" font-size="10.5" font-weight="700" fill="#FFFFFF">Approved Event Pass</text>
+          <text x="1400" y="412" font-family="Inter, sans-serif" font-size="11.5" font-weight="800" fill="#1F2937">Approved Event Pass</text>
+          <text x="1400" y="432" font-family="Inter, sans-serif" font-size="10" font-weight="600" fill="#4B5563">Confirmed Pass #RP-2027-0320</text>
+        </g>
+        
+        <g>
+          <rect x="40" y="600" width="224" height="92" rx="12" fill="#FFFFFF" stroke="#1F6F50" stroke-width="2"/>
+          <rect x="40" y="600" width="224" height="30" rx="12" fill="#153B30"/>
+          <rect x="48" y="605" width="50" height="20" rx="6" fill="#DFB982"/>
+          <text x="73" y="619" text-anchor="middle" font-family="Inter, sans-serif" font-size="10.5" font-weight="800" fill="#18241E">P-12</text>
+          <text x="106" y="619" font-family="Inter, sans-serif" font-size="10.5" font-weight="700" fill="#FFFFFF">Cancel Booking Modal</text>
+          <text x="50" y="652" font-family="Inter, sans-serif" font-size="11.5" font-weight="800" fill="#1F2937">Cancel Booking Modal</text>
+          <text x="50" y="672" font-family="Inter, sans-serif" font-size="10" font-weight="600" fill="#4B5563">Confirm Cancel (Batal)</text>
+        </g>
+        
+        <g>
+          <rect x="310" y="600" width="224" height="92" rx="12" fill="#FFFFFF" stroke="#1F6F50" stroke-width="2"/>
+          <rect x="310" y="600" width="224" height="30" rx="12" fill="#153B30"/>
+          <rect x="318" y="605" width="50" height="20" rx="6" fill="#DFB982"/>
+          <text x="343" y="619" text-anchor="middle" font-family="Inter, sans-serif" font-size="10.5" font-weight="800" fill="#18241E">P-13</text>
+          <text x="376" y="619" font-family="Inter, sans-serif" font-size="10.5" font-weight="700" fill="#FFFFFF">Cancelled &amp; Promoted</text>
+          <text x="320" y="652" font-family="Inter, sans-serif" font-size="11.5" font-weight="800" fill="#1F2937">Cancelled &amp; Promoted</text>
+          <text x="320" y="672" font-family="Inter, sans-serif" font-size="10" font-weight="600" fill="#4B5563">Releases Spot to Waitlist #1</text>
+        </g>
+        
+        <g>
+          <rect x="580" y="600" width="224" height="92" rx="12" fill="#FFFFFF" stroke="#1F6F50" stroke-width="2"/>
+          <rect x="580" y="600" width="224" height="30" rx="12" fill="#153B30"/>
+          <rect x="588" y="605" width="50" height="20" rx="6" fill="#DFB982"/>
+          <text x="613" y="619" text-anchor="middle" font-family="Inter, sans-serif" font-size="10.5" font-weight="800" fill="#18241E">P-14</text>
+          <text x="646" y="619" font-family="Inter, sans-serif" font-size="10.5" font-weight="700" fill="#FFFFFF">Log In (Single Card)</text>
+          <text x="590" y="652" font-family="Inter, sans-serif" font-size="11.5" font-weight="800" fill="#1F2937">Log In (Single Card)</text>
+          <text x="590" y="672" font-family="Inter, sans-serif" font-size="10" font-weight="600" fill="#4B5563">Participant Sign In (No Roles)</text>
+        </g>
+        
+        <g>
+          <rect x="850" y="600" width="224" height="92" rx="12" fill="#FFFFFF" stroke="#1F6F50" stroke-width="2"/>
+          <rect x="850" y="600" width="224" height="30" rx="12" fill="#153B30"/>
+          <rect x="858" y="605" width="50" height="20" rx="6" fill="#DFB982"/>
+          <text x="883" y="619" text-anchor="middle" font-family="Inter, sans-serif" font-size="10.5" font-weight="800" fill="#18241E">P-15</text>
+          <text x="916" y="619" font-family="Inter, sans-serif" font-size="10.5" font-weight="700" fill="#FFFFFF">Sign Up Step 1 (Deta</text>
+          <text x="860" y="652" font-family="Inter, sans-serif" font-size="11.5" font-weight="800" fill="#1F2937">Sign Up Step 1 (Details)</text>
+          <text x="860" y="672" font-family="Inter, sans-serif" font-size="10" font-weight="600" fill="#4B5563">Create Account -&gt; Send SMS</text>
+        </g>
+        
+        <g>
+          <rect x="1120" y="600" width="224" height="92" rx="12" fill="#FFFFFF" stroke="#1F6F50" stroke-width="2"/>
+          <rect x="1120" y="600" width="224" height="30" rx="12" fill="#153B30"/>
+          <rect x="1128" y="605" width="50" height="20" rx="6" fill="#DFB982"/>
+          <text x="1153" y="619" text-anchor="middle" font-family="Inter, sans-serif" font-size="10.5" font-weight="800" fill="#18241E">P-16</text>
+          <text x="1186" y="619" font-family="Inter, sans-serif" font-size="10.5" font-weight="700" fill="#FFFFFF">Sign Up Validation E</text>
+          <text x="1130" y="652" font-family="Inter, sans-serif" font-size="11.5" font-weight="800" fill="#1F2937">Sign Up Validation Error</text>
+          <text x="1130" y="672" font-family="Inter, sans-serif" font-size="10" font-weight="600" fill="#4B5563">Red Borders &amp; Error Prompts</text>
+        </g>
+        
+        <g>
+          <rect x="1390" y="600" width="224" height="92" rx="12" fill="#FFFFFF" stroke="#1F6F50" stroke-width="2"/>
+          <rect x="1390" y="600" width="224" height="30" rx="12" fill="#153B30"/>
+          <rect x="1398" y="605" width="50" height="20" rx="6" fill="#DFB982"/>
+          <text x="1423" y="619" text-anchor="middle" font-family="Inter, sans-serif" font-size="10.5" font-weight="800" fill="#18241E">P-17</text>
+          <text x="1456" y="619" font-family="Inter, sans-serif" font-size="10.5" font-weight="700" fill="#FFFFFF">Sign Up Step 2: SMS </text>
+          <text x="1400" y="652" font-family="Inter, sans-serif" font-size="11.5" font-weight="800" fill="#1F2937">Sign Up Step 2: SMS OTP</text>
+          <text x="1400" y="672" font-family="Inter, sans-serif" font-size="10" font-weight="600" fill="#4B5563">6-Digit Code Modal -&gt; P-10</text>
+        </g>
+        
+        <g>
+          <rect x="1390" y="820" width="224" height="92" rx="12" fill="#FFFFFF" stroke="#1F6F50" stroke-width="2"/>
+          <rect x="1390" y="820" width="224" height="30" rx="12" fill="#153B30"/>
+          <rect x="1398" y="825" width="50" height="20" rx="6" fill="#DFB982"/>
+          <text x="1423" y="839" text-anchor="middle" font-family="Inter, sans-serif" font-size="10.5" font-weight="800" fill="#18241E">P-18</text>
+          <text x="1456" y="839" font-family="Inter, sans-serif" font-size="10.5" font-weight="700" fill="#FFFFFF">SMS OTP Invalid Erro</text>
+          <text x="1400" y="872" font-family="Inter, sans-serif" font-size="11.5" font-weight="800" fill="#1F2937">SMS OTP Invalid Error</text>
+          <text x="1400" y="892" font-family="Inter, sans-serif" font-size="10" font-weight="600" fill="#4B5563">Wrong Code Alert &amp; Resend</text>
+        </g>
+        
+  <rect x="40" y="1002" width="1720" height="54" rx="12" fill="#EDF3F0" stroke="#88B69E" stroke-width="1.5"/>
+  <text x="64" y="1034" font-family="Inter, sans-serif" font-size="12.5" font-weight="800" fill="#153B30">📌 V4 Role 1 Complete Flow: Search Bar Filter (P-01➔P-02) · Guest Apply -> Registration Completed Notice (P-07➔P-08➔P-10) · Single-Card Log In (P-14) · Sign Up + Error + 6-Digit SMS OTP (P-15➔P-16➔P-17➔P-18➔P-10)</text>
+
+  <g>
+    <line x1="286" y1="165" x2="345" y2="104" stroke="#0D9488" stroke-width="2.5" stroke-dasharray="5,3"/>
+    <rect x="235" y="96" width="215" height="30" rx="8" fill="#0F766E" stroke="#DFB982" stroke-width="1.5"/>
+    <text x="342" y="115" text-anchor="middle" font-family="Inter, sans-serif" font-size="10.5" font-weight="800" fill="#FFFFFF">P-01S · Search Results ('Screening')</text>
+  </g>
+
+</svg>
